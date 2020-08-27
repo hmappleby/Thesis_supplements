@@ -1,0 +1,234 @@
+TYPE,WDPAID,NAME,ORIG_NAME,DESIG,DESIG_ENG,DESIG_TYPE,MARINE,STATUS_YR,age,ISO3,mean_access,meanHDIall,AREA,logArea,veg_diversity,veg_factor,total_pop,Wildlifepop,Sprich,Visitation_rate,logVis
+Polygon,1362,Daan Viljoen Game Park,Daan Viljoen Game Park,National Park,National Park,National,0,1968,52,NAM,14.73584906,0.587923077,40.16120289,1.603806712,1,Grassland,451359.8961,1549,311,#N/A,0
+Polygon,101232,Iriqui National Park,Iriqui National Park,Parc National,National Park,National,0,1994,26,MAR,233.3140401,0.5525,1301.099055,3.114310361,2,Sparse vegetation or bare,347867.5903,330,108,#N/A,0
+Polygon,18002,Gross Barmen Hot Springs,Gross Barmen Hot Springs,National Park,National Park,National,0,1968,52,NAM,53.4193573,0.587923077,1.065436125,0.027527418,2,Grassland,416809.567,1585,316,#N/A,0
+Polygon,1080,Maiko,Maiko,Parc National,National Park,National,0,1970,50,COD,1641.321874,0.364653846,11041.64582,4.043033812,3,Forest,3747048.07,1703,458,#N/A,0
+Polygon,306589,Wadi El-Gemal - Hamata,Wadi El-Gemal - Hamata,Ù…ØªÙ†Ø²Ù‡ ÙˆØ·Ù†ÙŠ,National Park,National,1,2003,17,EGY,470.806891,0.622615385,8935.033892,3.951096204,3,Sparse vegetation or bare,17238.97014,445,153,#N/A,0
+Polygon,40042,Semuliki,Semuliki,National Park,National Park,National,0,1993,27,UGA,226.3793103,0.405307692,222.2087902,2.346761235,3,Forest,6413658.6,2618,717,176,2.245512668
+Polygon,18005,Hardap Recreation Resort,Hardap Recreation Resort,National Park,National Park,National,0,1968,52,NAM,210.1474359,0.587923077,244.2304143,2.387799746,3,Grassland,261374.9165,1228,243,#N/A,0
+Polygon,351,National Park Cangandala,National Park Cangandala,National Park,National Park,National,0,1970,50,AGO,201.8789474,0.462764706,645.7730886,2.810079943,3,Forest,772332.3797,1613,379,#N/A,0
+Polygon,7874,Kamuku,Kamuku,National Park,National Park,National,0,1999,21,NGA,159.8574879,0.492692308,348.3571585,2.542024739,3,Forest,3049326.971,1579,393,#N/A,0
+Polygon,724,Mont Peko National Park,Mont Peko National Park,National Park,National Park,National,0,1968,52,CIV,159.0601093,0.413230769,314.8052501,2.498041967,3,Forest,3672770.422,1459,446,#N/A,0
+Polygon,1361,Cape Cross Seal Reserve,Cape Cross Seal Reserve,National Park,National Park,National,0,1969,51,NAM,100.5,0.587923077,9.940966708,0.997428619,3,Grassland,5724.150489,862,186,#N/A,0
+Polygon,725,Banco National Park,Banco National Park,National Park,National Park,National,0,1953,67,CIV,2.392857143,0.413230769,26.27472107,1.419538114,3,Forest,6445944.45,1288,405,#N/A,0
+Polygon,72332,Nouabalé-Ndoki,Nouabalé-Ndoki,Parc National,National Park,National,0,1993,27,COG,1539.371739,0.522769231,4116.044274,3.614480038,4,Forest,394636.0037,1343,397,500,2.698970004
+Polygon,639,Bamingui-Bangoran,Bamingui-Bangoran,National Park,National Park,National,0,1933,87,CAF,763.1384371,0.3265,11263.59498,4.051677026,4,Forest,525538.2422,1908,431,#N/A,0
+Polygon,7508,Gemsbok,Gemsbok,National Park,National Park,National,0,1971,49,BWA,742.9155974,0.615769231,26050.59965,4.415817725,4,Grassland,62513.46569,1311,248,5984.4,3.777020614
+Polygon,2258,Andre Felix,Andre Felix,National Park,National Park,National,0,1960,60,CAF,639.5578111,0.3265,958.0158741,2.981372705,4,Shrubland,321789.6889,1435,320,#N/A,0
+Polygon,874,Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,National Park,National Park,National,0,1931,89,ZAF,520.4966151,0.634923077,9629.986007,3.983625656,4,Grassland,1115.098823,1283,239,51746,4.713876784
+Polygon,555547998,Bakossi,Bakossi,Parc national,National Park,National,0,2007,13,CMR,364.0356083,0.460653846,295.3472655,2.470332954,4,Forest,3275880.01,1618,536,#N/A,0
+Polygon,7888,South Island,South Island,National Park,National Park,National,0,1983,37,KEN,337.7777778,0.486961538,38.89493883,1.589893093,4,Sparse vegetation or bare,277062.7529,1487,316,#N/A,0
+Polygon,797,Banc d'Arguin,Banc d'Arguin,National Park,National Park,National,1,1978,42,MRT,304.0440375,0.452576923,18378.27308,4.2643047,4,Water bodies,144469.8564,513,166,#N/A,0
+Polygon,555542335,Gola Rainforest National Park,Gola Rainforest National Park,National Park,National Park,National,0,2010,10,SLE,260.6205674,0.332769231,715.0372542,2.85432867,4,Forest,2912535.205,1520,462,#N/A,0
+Polygon,7447,Sehlabathebe,Sehlabathebe,National Park,National Park,National,0,1970,50,LSO,220.0217391,0.467038462,69.75014615,1.843545122,4,Mosaic,1318073.721,1159,269,#N/A,0
+Polygon,4487,Bouhedma,Bouhedma,National Park,National Park,National,0,1980,40,TUN,126.9409283,0.661846154,165.6432698,2.219173795,4,Sparse vegetation or bare,1741253.45,410,188,#N/A,0
+Polygon,32455,Vaalbos National Park,Vaalbos National Park,National Park,National Park,National,0,1986,34,ZAF,85.75384615,0.634923077,49.97560026,1.698758019,4,Grassland,17405.2893,1350,283,#N/A,0
+Polygon,2597,Saiwa Swamp,Saiwa Swamp,National Park,National Park,National,0,1974,46,KEN,22.83333333,0.486961538,2.712357819,0.433346982,4,Shrubland,8081160.489,2196,571,#N/A,0
+Polygon,2342,Fosse aux Lions,Fosse aux Lions,National Park,National Park,National,0,1954,66,TGO,9.857142857,0.434192308,29.71469241,1.472971239,4,Mosaic,2923738.12,1519,368,#N/A,0
+Polygon,643,Odzala Kokoua,Odzala Kokoua,Parc National,National Park,National,0,2005,15,COG,1689.834526,0.522769231,13695.16371,4.136567228,5,Forest,282607.6169,1492,447,#N/A,0
+Polygon,30674,Nki,Nki,Parc national,National Park,National,0,2005,15,CMR,1283.862681,0.460653846,3153.181037,3.498748906,5,Forest,276490.8854,1369,406,#N/A,0
+Polygon,31458,Dzanga-Ndoki,Dzanga-Ndoki,National Park,National Park,National,0,1990,30,CAF,1060.507947,0.3265,1259.755166,3.100286148,5,Forest,328260.3934,1353,401,#N/A,0
+Polygon,1245,Lobéké,Lobéké,Parc national,National Park,National,0,2001,19,CMR,1060.218254,0.460653846,2169.020609,3.336263678,5,Forest,214074.5094,1348,400,#N/A,0
+Polygon,721,Taï National Park,Taï National Park,National Park,National Park,National,0,1972,48,CIV,479.1688801,0.413230769,4321.24757,3.635609148,5,Forest,4224687.435,1392,424,#N/A,0
+Polygon,555547993,Mpem et Djim,Mpem et Djim,Parc national,National Park,National,0,2004,16,CMR,338.6386702,0.460653846,980.543153,2.991466711,5,Forest,986412.9192,1432,417,#N/A,0
+Polygon,317193,Parc National de Wongo,Parc National de Wongo,Parc National,National Park,National,0,2002,18,MLI,326.8982808,0.327730769,582.7746028,2.765500617,5,Shrubland,538972.5511,1540,362,#N/A,0
+Polygon,669,Mole,Mole,National Park,National Park,National,0,1971,49,GHA,249.7577803,0.508076923,4522.284209,3.655357853,5,Forest,2444871.047,1693,412,8649,3.936965897
+Polygon,671,Bui,Bui,National Park,National Park,National,0,1971,49,GHA,249.3387242,0.508076923,1897.31916,3.278140392,5,Forest,2272070.399,1638,421,255,2.40654018
+Polygon,7417,Outamba,Outamba,National Park,National Park,National,0,1995,25,SLE,243.9288175,0.332769231,740.0890957,2.869284005,5,Forest,1955732.502,1508,394,#N/A,0
+Polygon,29069,Badiar,Badiar,National Park,National Park,National,0,1985,35,GIN,228.4017857,0.339884615,279.8648352,2.446948333,5,Forest,1022768.979,1518,352,#N/A,0
+Polygon,1099,Kasanka,Kasanka,National Park,National Park,National,0,1971,49,ZMB,211.5777351,0.468653846,436.9920273,2.640473514,5,Shrubland,435091.8228,2283,500,1422,3.152899596
+Polygon,606,Bouba Ndjida,Bouba Ndjida,Parc national,National Park,National,0,1968,52,CMR,203.7158864,0.460653846,2129.120122,3.328200164,5,Shrubland,2139877.224,1745,396,#N/A,0
+Polygon,7887,Central Island,Central Island,National Park,National Park,National,0,1983,37,KEN,175,0.486961538,4.883030676,0.688689453,5,Sparse vegetation or bare,317229.924,1376,299,#N/A,0
+Polygon,26460,Kakum,Kakum,National Park,National Park,National,0,1991,29,GHA,173.995122,0.508076923,176.1520831,2.245887783,5,Mosaic,6492605.309,1334,430,#N/A,0
+Polygon,2296,Ruma,Ruma,National Park,National Park,National,0,1983,37,KEN,78.66666667,0.486961538,127.1331828,2.10425892,5,Mosaic,9045561.951,2010,466,#N/A,0
+Polygon,882,Bontebok National Park,Bontebok National Park,National Park,National Park,National,0,1961,59,ZAF,76.79166667,0.634923077,34.24259227,1.534566635,5,Forest,23620.96586,1298,303,21176,4.325843928
+Polygon,555583109,Nimule Buffer Zone,Nimule Buffer Zone,National Park,National Park,National,0,1954,66,SSD,12.62903226,0.420833333,54.91370622,1.739680756,5,Shrubland,2731156.268,2126,500,#N/A,0
+Polygon,1241,Faro,Faro,Parc national,National Park,National,0,1980,40,CMR,355.7092629,0.460653846,3519.857478,3.546525079,6,Shrubland,2534460.89,1811,428,#N/A,0
+Polygon,754,Sibiloi,Sibiloi,National Park,National Park,National,0,1973,47,KEN,330.2842335,0.486961538,1574.400366,3.197115182,6,Sparse vegetation or bare,456275.9284,1775,392,#N/A,0
+Polygon,18438,Rwenzori Mountains,Rwenzori Mountains,National Park,National Park,National,0,1991,29,UGA,322.04811,0.405307692,1001.211818,3.000525967,6,Forest,8662745.402,2692,742,662,2.820857989
+Polygon,19726,Malka Mari,Malka Mari,National Park,National Park,National,0,1989,31,KEN,309.0601093,0.486961538,938.9183544,2.972627829,6,Mosaic,1617937.661,1276,318,#N/A,0
+Polygon,1048,W du Burkina Faso,W du Burkina Faso,National Park,National Park,National,0,1954,66,BFA,289.4323204,0.370636364,2444.01364,3.388103625,6,Shrubland,2017308.66,1786,411,#N/A,0
+Polygon,1091,Lukusuzi,Lukusuzi,National Park,National Park,National,0,1971,49,ZMB,266.7861322,0.468653846,2871.766925,3.458149189,6,Forest,2611084.732,2344,499,#N/A,0
+Polygon,887,Waterberg Plateau Park,Waterberg Plateau Park,National Park,National Park,National,0,1990,30,NAM,208.5213849,0.587923077,397.7793632,2.599642248,6,Grassland,73486.16293,1688,346,#N/A,0
+Polygon,642,Manda,Manda,Parc National,National Park,National,0,1969,51,TCD,178.0584071,0.341375,957.0819244,2.980949114,6,Forest,1108454.031,1614,351,#N/A,0
+Polygon,9782,Ras Mohammed,????? ??? ????,????? ????,National Park,National,1,1983,37,EGY,168.3040293,0.622615385,1368.538693,3.136257081,6,Water bodies,387033.7552,296,112,#N/A,0
+Polygon,18437,Bwindi Impenetrable,Bwindi Impenetrable,National Park,National Park,National,0,1991,29,UGA,166.104712,0.405307692,329.4303206,2.517763569,6,Forest,10667251.22,2622,693,4713,3.67329744
+Polygon,2288,River Gambia,River Gambia,National Park,National Park,National,0,1976,44,GMB,159.4615385,0.396692308,9.572718532,0.981035289,6,Water bodies,2030880.797,1561,404,#N/A,0
+Polygon,1049,Kabore-Tambi,Kabore-Tambi,National Park,National Park,National,0,1976,44,BFA,159.1872928,0.370636364,1525.076776,3.183291708,6,Shrubland,7411107.797,1545,373,#N/A,0
+Polygon,607,Bénoué,Bénoué,Parc national,National Park,National,0,1968,52,CMR,145.613539,0.460653846,1993.124336,3.299534392,6,Shrubland,1676170.886,1834,420,#N/A,0
+Polygon,877,Mountain Zebra National Park,Mountain Zebra National Park,National Park,National Park,National,0,1937,83,ZAF,129.1326165,0.634923077,204.282664,2.310231513,6,Grassland,28967.42148,1378,302,28361,4.45272154
+Polygon,555563463,Mokala National Park,Mokala National Park,National Park,National Park,National,0,2007,13,ZAF,88.90935673,0.634923077,260.7569197,2.416235842,6,Grassland,16973.5048,1331,278,17449,4.241770543
+Polygon,1110,Matopos,Matopos,National Park,National Park,National,0,1926,94,ZWE,61.04597701,0.453846154,412.7568708,2.615694311,6,Shrubland,1242807.181,2097,454,#N/A,0
+Polygon,2290,Niumi National Park,Niumi National Park,National Park,National Park,National,0,1986,34,GMB,59.98305085,0.396692308,49.26299134,1.692520779,6,Mosaic,3449634.527,1673,452,#N/A,0
+Polygon,19562,Mt. Longonot,Mt. Longonot,National Park,National Park,National,0,1983,37,KEN,55.80327869,0.486961538,54.28444338,1.734675389,6,Grassland,11841542.05,2378,587,#N/A,0
+Polygon,18004,Von Bach Recreation Resort,Von Bach Recreation Resort,National Park,National Park,National,0,1972,48,NAM,55.09615385,0.587923077,41.35485635,1.616526517,6,Grassland,1582735.88,1580,319,#N/A,0
+Polygon,879,Golden Gate Highlands National Park,Golden Gate Highlands National Park,National Park,National Park,National,0,1963,57,ZAF,38.39782609,0.634923077,349.2691076,2.543160175,6,Mosaic,263875.382,1434,325,53582,4.72901892
+Polygon,5081,National Park Mavinga,National Park Mavinga,National Park,National Park,National,0,1966,54,AGO,918.1902733,0.462764706,5644.054651,3.75159121,7,Forest,123772.806,1694,334,#N/A,0
+Polygon,4493,National Park Luengue-Luiana,National Park Luengue-Luiana,National Park,National Park,National,0,1966,54,AGO,690.6842023,0.462764706,10493.85493,4.020935056,7,Grassland,283848.0176,2350,465,#N/A,0
+Polygon,17999,Khaudum,Khaudum,National Park,National Park,National,0,2008,12,NAM,584.1654024,0.587923077,3860.227695,3.586612922,7,Grassland,103714.709,2070,415,#N/A,0
+Polygon,8785,Ai-Ais Hot Springs,Ai-Ais Hot Springs,National Park,National Park,National,0,2002,18,NAM,538.8462343,0.587923077,4370.325171,3.640513752,7,Sparse vegetation or bare,58289.37289,1261,248,#N/A,0
+Polygon,1093,West Lunga,West Lunga,National Park,National Park,National,0,1971,49,ZMB,468.0108747,0.468653846,1773.380124,3.248801837,7,Forest,302975.949,2174,488,#N/A,0
+Polygon,1087,Sioma Ngwezi,Sioma Ngwezi,National Park,National Park,National,0,1972,48,ZMB,446.1214627,0.468653846,4477.338297,3.65101991,7,Shrubland,280796.7984,2379,473,#N/A,0
+Polygon,20058,Korup,Korup,Parc national,National Park,National,0,1986,34,CMR,424.0840619,0.460653846,1270.90973,3.104114705,7,Forest,8089078.116,1608,530,#N/A,0
+Polygon,20268,Altos de Nsork,Altos de Nsork,National Park,National Park,National,0,2000,20,GNQ,403.1753086,0.5731875,697.507404,2.843548822,7,Forest,653284.8063,1260,380,#N/A,0
+Polygon,30048,Naute Recreation Resort,Naute Recreation Resort,National Park,National Park,National,0,1988,32,NAM,359.9446254,0.587923077,236.1329974,2.37315668,7,Sparse vegetation or bare,175961.8962,993,195,#N/A,0
+Polygon,20267,Monte Alén,Monte Alén,National Park,National Park,National,0,1990,30,GNQ,338.0476821,0.5731875,1952.388296,3.290566196,7,Forest,1164696.814,1454,432,#N/A,0
+Polygon,7873,Gashaka-Gumti,Gashaka-Gumti,National Park,National Park,National,0,1991,29,NGA,280.3303971,0.492692308,5906.183328,3.771306923,7,Forest,2849492.855,2021,529,#N/A,0
+Polygon,555547995,Deng Deng,Deng Deng,Parc national,National Park,National,0,2013,7,CMR,274.3320896,0.460653846,692.000591,2.840106465,7,Forest,553856.5976,1526,394,#N/A,0
+Polygon,1094,Lavushi Manda,Lavushi Manda,National Park,National Park,National,0,1972,48,ZMB,269.3221477,0.468653846,1624.475573,3.210713185,7,Shrubland,455881.1784,2387,511,#N/A,0
+Polygon,1095,Lusenga Plain,Lusenga Plain,National Park,National Park,National,0,1971,49,ZMB,248.9447566,0.468653846,908.0165515,2.958093765,7,Forest,923318.3863,2193,501,#N/A,0
+Polygon,7523,Comoe National Park,Comoe National Park,National Park,National Park,National,0,1968,52,CIV,243.0731531,0.413230769,11756.1936,4.070266729,7,Forest,2116915.897,1975,501,#N/A,0
+Polygon,10737,Lantoto,Lantoto,National Park,National Park,National,0,1986,34,SSD,239.1825221,0.420833333,1557.076994,3.192310088,7,Forest,1140813.52,1917,460,#N/A,0
+Polygon,1112,Kazuma Pan,Kazuma Pan,National Park,National Park,National,0,1975,45,ZWE,224.2413793,0.453846154,331.8228148,2.520906243,7,Grassland,376552.6581,2373,467,#N/A,0
+Polygon,865,Niokolo Koba,Niokolo Koba,National Park,National Park,National,0,1954,66,SEN,207.6774259,0.412961538,8283.420656,3.918209717,7,Shrubland,1925515.663,1839,434,#N/A,0
+Polygon,876,Karoo National Park,Karoo National Park,National Park,National Park,National,0,1979,41,ZAF,203.9893899,0.634923077,824.7012174,2.916296636,7,Grassland,39439.85136,1166,239,33572,4.525977214
+Polygon,723,Mont Sangbe National Park,Mont Sangbe National Park,National Park,National Park,National,0,1976,44,CIV,195.7822809,0.413230769,903.1346614,2.95575251,7,Forest,1986987.457,1718,442,#N/A,0
+Polygon,146627,Kimbi-Fungom,Kimbi-Fungom,Parc national,National Park,National,0,2015,5,CMR,171.1065292,0.460653846,996.7269753,2.998576212,7,Forest,5073756.912,1617,457,#N/A,0
+Polygon,2344,Deux Bales,Deux Bales,National Park,National Park,National,0,1967,53,BFA,157.6508988,0.370636364,888.8681906,2.948837365,7,Shrubland,2796989.786,1456,344,#N/A,0
+Polygon,116257,Marakele National Park,Marakele National Park,National Park,National Park,National,0,1994,26,ZAF,157.1505945,0.634923077,592.0236877,2.772339084,7,Shrubland,15189.32361,2212,454,26507,4.423360578
+Polygon,2340,Fazao-Malfakassa,Fazao-Malfakassa,National Park,National Park,National,0,1951,69,TGO,142.5456684,0.434192308,2167.222702,3.335903541,7,Forest,3662262.436,1632,421,#N/A,0
+Polygon,308687,Mapungupwe National Park,Mapungupwe National Park,National Park,National Park,National,0,1998,22,ZAF,133.7037037,0.634923077,153.0958098,2.184963304,7,Mosaic,5610.265832,2212,457,40151,4.603696366
+Polygon,760,Mt. Elgon,Mt. Elgon,National Park,National Park,National,0,1968,52,KEN,131.5668449,0.486961538,159.0613649,2.201564705,7,Forest,11597145.15,2368,600,1934,3.28645647
+Polygon,863,Volcans,Volcans,National Park,National Park,National,0,1929,91,RWA,111.1746032,0.358538462,163.6140284,2.213820538,7,Mosaic,13648336.73,2432,618,3064,3.486288761
+Polygon,868,Basse-Casamance,Basse-Casamance,National Park,National Park,National,0,1970,50,SEN,104.0416667,0.412961538,42.71099762,1.630539716,7,Forest,1118408.708,1600,407,#N/A,0
+Polygon,12344,Ndere,Ndere,National Park,National Park,National,0,1986,34,KEN,99.75,0.486961538,4.271591322,0.630589696,7,Water bodies,11610470.37,1865,452,#N/A,0
+Polygon,926,Gombe National Park,Gombe National Park,National Park,National Park,National,0,1968,52,TZA,84.1025641,0.429923077,34.5436574,1.538368318,7,Forest,2977827.773,1829,401,595,2.774516966
+Polygon,1993,Victoria Falls,Victoria Falls,National Park,National Park,National,0,1952,68,ZWE,70.7,0.453846154,26.62420064,1.425276577,7,Mosaic,446966.0658,2429,483,#N/A,0
+Polygon,9160,Parc national du Ruvubu,Parc national du Ruvubu,National Park,National Park,National,0,1980,40,BDI,69.82852564,0.310192308,536.74968,2.729771794,7,Forest,12261297.95,2028,486,#N/A,0
+Polygon,2317,Lake Malawi National Park,Lake Malawi National Park,National Park,National Park,National,0,1980,40,MWI,67.47311828,0.394538462,73.55491218,1.866611681,7,Forest,4732804.613,2018,464,6577,3.818027842
+Polygon,2339,Oti-Keran,Keran,National Park,National Park,National,0,1950,70,TGO,59.78481013,0.434192308,1203.634512,3.080494632,7,Shrubland,3619764.717,1605,396,#N/A,0
+Polygon,7506,Hell's Gate,Hell's Gate,National Park,National Park,National,0,1984,36,KEN,57.98717949,0.486961538,66.94459125,1.825715494,7,Grassland,11986918,2428,591,83729.5,4.922878498
+Polygon,904,Nimule,Nimule,National Park,National Park,National,0,1954,66,SSD,51.24203822,0.420833333,131.5870617,2.119213189,7,Shrubland,3082338.607,2200,518,#N/A,0
+Polygon,9742,Parc National de Belezma,Parc National de Belezma,Parc National,National Park,National,0,1984,36,DZA,38.05905512,0.663346154,177.5257666,2.249261397,7,Mosaic,6030946.591,339,181,#N/A,0
+Polygon,2256,Manovo-Gounda-Saint Floris,Manovo-Gounda-Saint Floris,National Park,National Park,National,0,1933,87,CAF,834.2034827,0.3265,19092.1589,4.28085504,8,Forest,205738.1249,2009,444,#N/A,0
+Polygon,903,Southern,Southern,National Park,National Park,National,0,1939,81,SSD,679.7022303,0.420833333,19365.98381,4.287039564,8,Mosaic,1469155.944,1848,427,#N/A,0
+Polygon,883,Namib-Naukluft,Namib-Naukluft,National Park,National Park,National,0,1986,34,NAM,640.1826155,0.587923077,50997.45174,4.707548476,8,Sparse vegetation or bare,183584.4827,1535,337,#N/A,0
+Polygon,2336,Dinder,Dinder,National Park,National Park,National,0,1935,85,SDN,587.9089463,0.4145,8451.057415,3.926911052,8,Mosaic,2566194.227,1693,410,#N/A,0
+Polygon,641,Zakouma,Zakouma,Parc National,National Park,National,0,1963,57,TCD,545.6755788,0.341375,3061.705138,3.485963363,8,Mosaic,391250.6714,1587,324,550,2.740362689
+Polygon,555547996,Takamanda,Takamanda,Parc national,National Park,National,0,2008,12,CMR,544.7779273,0.460653846,631.8241903,2.800596249,8,Forest,5204298.489,1601,499,#N/A,0
+Polygon,799,Banhine,Banhine,National Park,National Park,National,0,1973,47,MOZ,539.5411458,0.318769231,6080.223162,3.783919519,8,Mosaic,217327.932,2012,391,#N/A,0
+Polygon,30851,Richtersveld National Park,Richtersveld National Park,National Park,National Park,National,0,1991,29,ZAF,531.2248783,0.634923077,1709.069101,3.232759622,8,Sparse vegetation or bare,5899.06759,1167,247,5415,3.733598461
+Polygon,347,National Park Iona,National Park Iona,National Park,National Park,National,0,1964,56,AGO,504.9592473,0.462764706,15359.38305,4.186373771,8,Sparse vegetation or bare,287667.9023,1867,372,#N/A,0
+Polygon,350,National Park Bicuar,National Park Bicuar,National Park,National Park,National,0,1964,56,AGO,376.4488618,0.462764706,7772.755424,3.890575002,8,Forest,2078883.72,1929,418,#N/A,0
+Polygon,1083,Garamba,Garamba,Parc National,National Park,National,0,1938,82,COD,362.1744226,0.364653846,4981.694064,3.697377053,8,Shrubland,1368661.662,2177,549,100,2
+Polygon,2249,National Park Mupa,National Park Mupa,National Park,National Park,National,0,1964,56,AGO,355.9137825,0.462764706,5398.292685,3.732256427,8,Forest,1065557.692,1831,385,#N/A,0
+Polygon,30052,Nkasa Rupara,Mamili,National Park,National Park,National,0,1990,30,NAM,330.1746411,0.587923077,339.53785,2.530888194,8,Forest,80902.39017,2371,460,#N/A,0
+Polygon,1991,Hwange,Hwange,National Park,National Park,National,0,1949,71,ZWE,317.3607947,0.453846154,14776.4896,4.169571272,8,Shrubland,837216.3699,2460,494,#N/A,0
+Polygon,30051,Mudumu,Mudumu,National Park,National Park,National,0,1990,30,NAM,307.6970721,0.587923077,719.6082882,2.857096157,8,Grassland,147435.1518,2405,472,#N/A,0
+Polygon,818,Parc W Niger,Parc W Niger,National Park,National Park,National,0,1954,66,NER,306.8254806,0.275884615,2225.159414,3.34736113,8,Shrubland,2579538.741,1758,406,#N/A,0
+Polygon,1105,Chizarira,Chizarira,National Park,National Park,National,0,1975,45,ZWE,294.6527021,0.453846154,1958.522379,3.291928538,8,Shrubland,1002518.084,2265,468,#N/A,0
+Polygon,1090,Mweru-Wantipa,Mweru-Wantipa,National Park,National Park,National,0,1971,49,ZMB,259.7207792,0.468653846,1439.041857,3.158073426,8,Forest,1178249.956,2257,517,#N/A,0
+Polygon,317195,Parc National Kouroufing,Parc National Kouroufing,Parc National,National Park,National,0,2002,18,MLI,247.8706199,0.327730769,624.3408447,2.795421748,8,Shrubland,681263.4299,1534,362,#N/A,0
+Polygon,601,Nxai Pan,Nxai Pan,National Park,National Park,National,0,1971,49,BWA,243.5010859,0.615769231,2602.740972,3.415430949,8,Grassland,148658.9481,2158,409,#N/A,0
+Polygon,555542497,Khenefiss National Park,Khenefiss National Park,Parc National,National Park,National,0,2006,14,MAR,222.7716691,0.5525,1767.242236,3.247296082,8,Sparse vegetation or bare,315461.1554,394,162,#N/A,0
+Polygon,1107,Matusadona,Matusadona,National Park,National Park,National,0,1975,45,ZWE,201.0069085,0.453846154,1430.414582,3.155461929,8,Forest,998321.886,2294,463,#N/A,0
+Polygon,780,Kasungu National Park,Kasungu National Park,National Park,National Park,National,0,1970,50,MWI,188.6095034,0.394538462,2354.858921,3.371964894,8,Forest,4694421.974,2292,496,1027,3.011570444
+Polygon,7522,Azagny National Park,Azagny National Park,National Park,National Park,National,0,1981,39,CIV,176.0107143,0.413230769,238.5559633,2.377590277,8,Mosaic,6308237.402,1395,416,#N/A,0
+Polygon,9148,Nyungwe,Nyungwe,National Park,National Park,National,0,1933,87,RWA,172.9081803,0.358538462,1025.453556,3.010915995,8,Forest,19527544.3,2360,640,4034,3.605735894
+Polygon,878,Augrabies Falls National Park,Augrabies Falls National Park,National Park,National Park,National,0,1966,54,ZAF,157.5301391,0.634923077,484.3048331,2.685118803,8,Grassland,12714.79368,1189,241,69554,4.842322111
+Polygon,4035,Camdeboo National Park,Camdeboo National Park,National Park,National Park,National,0,2005,15,ZAF,153.5099602,0.634923077,187.4043868,2.272779753,8,Grassland,38320.69346,1277,275,37198,4.57051959
+Polygon,26625,Old Oyo,Old Oyo,National Park,National Park,National,0,1991,29,NGA,133.1371571,0.492692308,2384.538703,3.377404376,8,Forest,9758876.777,1548,385,#N/A,0
+Polygon,313109,Mgahinga Gorilla,Mgahinga Gorilla,National Park,National Park,National,0,1930,90,UGA,127.6521739,0.405307692,38.80221461,1.588856513,8,Forest,12275980.1,2345,597,2192,3.34084055
+Polygon,756,Aberdare,Aberdare,National Park,National Park,National,0,1950,70,KEN,121.6013289,0.486961538,776.4055858,2.890088651,8,Mosaic,14246766.59,2547,618,31479,4.498020928
+Polygon,2289,Kiang West,Kiang West,National Park,National Park,National,0,1987,33,GMB,89.29457364,0.396692308,115.7467259,2.063508715,8,Shrubland,3862060.397,1675,457,#N/A,0
+Polygon,2530,Zambezi,Zambezi,National Park,National Park,National,0,1979,41,ZWE,88.25078864,0.453846154,518.3352667,2.714610759,8,Forest,481363.4019,2541,499,#N/A,0
+Polygon,1111,Nyanga,Nyanga,National Park,National Park,National,0,1950,70,ZWE,79.79831933,0.453846154,290.1915514,2.462684764,8,Forest,1716249.157,2160,512,#N/A,0
+Polygon,2316,Liwonde National Park,Liwonde National Park,National Park,National Park,National,0,1973,47,MWI,78.51223776,0.394538462,472.4337239,2.674340891,8,Forest,6198877.766,2223,522,24168.5,4.383249697
+Polygon,2315,Lengwe National Park,Lengwe National Park,National Park,National Park,National,0,1970,50,MWI,64.98657718,0.394538462,121.1065815,2.083167745,8,Forest,4892265.074,2205,502,979,2.990782692
+Polygon,7444,Hlane Royal National Park,Hlane Royal National Park,National Park,National Park,National,0,1967,53,SWZ,46.51056338,0.525846154,218.2085678,2.338871799,8,Forest,4414132.842,2171,463,#N/A,0
+Polygon,764,Ol Donyo Sabuk,Ol Donyo Sabuk,National Park,National Park,National,0,1967,53,KEN,45.17391304,0.486961538,20.10752924,1.303358709,8,Forest,11905944.16,2294,570,#N/A,0
+Polygon,2347,Mosi-Oa-Tunya,Mosi-Oa-Tunya,National Park,National Park,National,0,1971,49,ZMB,10.32673267,0.468653846,80.89614429,1.907927823,8,Grassland,479351.1884,2479,492,300000,5.477121255
+Polygon,761,Nairobi,Nairobi,National Park,National Park,National,0,1946,74,KEN,10.26618705,0.486961538,117.0876322,2.068511024,8,Grassland,10402253.89,2513,595,97266.5,4.987963289
+Polygon,1082,Kahuzi-Biega,Kahuzi-Biega,Parc National,National Park,National,0,1970,50,COD,997.1485867,0.364653846,6776.049547,3.830976573,9,Forest,11521370.8,2406,685,1200,3.079181246
+Polygon,349,National Park Cameia,National Park Cameia,National Park,National Park,National,0,1938,82,AGO,773.5663639,0.462764706,14272.56129,4.154501917,9,Forest,535175.0997,1861,434,#N/A,0
+Polygon,885,Skeleton Coast Park,Skeleton Coast Park,National Park,National Park,National,0,1973,47,NAM,663.422141,0.587923077,17054.82538,4.231847277,9,Sparse vegetation or bare,55014.28716,1492,297,#N/A,0
+Polygon,20166,Mbam et Djerem,Mbam et Djerem,Parc national,National Park,National,0,2000,20,CMR,484.2315476,0.460653846,4316.447952,3.635126509,9,Forest,820162.2489,1747,479,#N/A,0
+Polygon,670,Digya,Digya,National Park,National Park,National,0,1971,49,GHA,401.2251757,0.508076923,2789.466214,3.445521106,9,Forest,4029486.158,1653,433,10,1
+Polygon,1085,Kafue,Kafue,National Park,National Park,National,0,1971,49,ZMB,378.0978318,0.468653846,22314.23609,4.348582024,9,Forest,1348827.226,2509,537,#N/A,0
+Polygon,1089,Liuwa Plain,Liuwa Plain,National Park,National Park,National,0,1971,49,ZMB,334.2535211,0.468653846,3188.760595,3.503621915,9,Grassland,441264.084,2049,437,#N/A,0
+Polygon,2416,Kora,Kora,National Park,National Park,National,0,1989,31,KEN,331.0159959,0.486961538,1669.554487,3.222600597,9,Grassland,3205478.782,2039,457,#N/A,0
+Polygon,2276,Yangudi Rassa,Yangudi Rassa,National Park,National Park,National,0,1969,51,ETH,314.4106307,0.374125,3065.264644,3.486467976,9,Grassland,3107403.273,1525,372,#N/A,0
+Polygon,923,Rubondo Island National Park,Rubondo Island National Park,National Park,National Park,National,0,1977,43,TZA,294.6138211,0.429923077,212.3094966,2.326969421,9,Forest,3801770.175,1805,379,469.4,2.671543085
+Polygon,1096,Isangano,Isangano,National Park,National Park,National,0,1971,49,ZMB,289.8557599,0.468653846,871.2024065,2.940119066,9,Forest,573254.015,2155,484,#N/A,0
+Polygon,12201,W (Benin),W (Benin),National Park,National Park,National,0,1954,66,BEN,264.4239052,0.414653846,5819.179767,3.764861774,9,Shrubland,3462739.624,1801,418,#N/A,0
+Polygon,1224,Makgadikgadi Pans,Makgadikgadi Pans,National Park,National Park,National,0,1992,28,BWA,246.592945,0.615769231,4915.685076,3.691584052,9,Grassland,155349.1588,1999,387,#N/A,0
+Polygon,921,Katavi National Park,Katavi National Park,National Park,National Park,National,0,1974,46,TZA,234.5145455,0.429923077,4234.47784,3.626799864,9,Forest,1233294.279,2439,488,652.6,2.814647069
+Polygon,1104,Gonarezhou,Gonarezhou,National Park,National Park,National,0,1975,45,ZWE,232.2731684,0.453846154,4946.617057,3.694308291,9,Forest,1192149.978,2527,505,#N/A,0
+Polygon,13704,Gambella,Gambella,National Park,National Park,National,0,1974,46,ETH,213.6959836,0.374125,5811.067256,3.764255902,9,Forest,2320954.898,1917,415,#N/A,0
+Polygon,2281,Bale Mountains,Bale Mountains,National Park,National Park,National,0,1969,51,ETH,203.9323959,0.374125,1579.13482,3.19841921,9,Mosaic,7386721.806,1888,454,1958,3.291812687
+Polygon,28175,Mount Elgon,Mount Elgon,National Park,National Park,National,0,1951,69,UGA,159.4795997,0.405307692,1117.481527,3.048240353,9,Mosaic,15170051.64,2520,648,1934,3.28645647
+Polygon,653,Simien Mountains,Simien Mountains,National Park,National Park,National,0,1959,61,ETH,156.3506494,0.374125,453.1221743,2.656215316,9,Mosaic,3646577.817,1597,396,150,2.176091259
+Polygon,819,Kainji Lake,Kainji Lake,National Park,National Park,National,0,1979,41,NGA,156.1167124,0.492692308,5861.335279,3.767996565,9,Forest,3794447.592,1738,415,#N/A,0
+Polygon,1100,Luambe,Luambe,National Park,National Park,National,0,1971,49,ZMB,136.2962025,0.468653846,329.1768835,2.517429329,9,Forest,576041.6653,2370,497,#N/A,0
+Polygon,9161,Kibira,Kibira,National Park,National Park,National,0,1934,86,BDI,132.0247788,0.310192308,480.6622563,2.681840021,9,Forest,16735341.96,2321,608,#N/A,0
+Polygon,31073,Haut Atlas Oriental National Park,Haut Atlas Oriental National Park,Parc National,National Park,National,0,2004,16,MAR,126.2431373,0.5525,556.2106664,2.745239313,9,Sparse vegetation or bare,2214102.761,403,196,#N/A,0
+Polygon,722,Marahoue National Park,Marahoue National Park,National Park,National Park,National,0,1968,52,CIV,110.5075922,0.413230769,1189.299643,3.075291289,9,Mosaic,4550733.846,1766,496,#N/A,0
+Polygon,1098,Lochinvar,Lochinvar,National Park,National Park,National,0,1971,49,ZMB,71.08056872,0.468653846,344.8454175,2.537624459,9,Forest,1770357.831,2254,490,#N/A,0
+Polygon,11697,Sous Massa National Park,Sous Massa National Park,Parc National,National Park,National,1,1991,29,MAR,34.95416667,0.5525,581.3906053,2.76446801,9,Sparse vegetation or bare,2761924.722,505,235,#N/A,0
+Polygon,9162,Réserve naturelle du Rusizi,Réserve naturelle du Rusizi,National Park,National Park,National,0,1980,40,BDI,22.76,0.310192308,85.61956549,1.93257302,9,Mosaic,11797784.23,2088,540,#N/A,0
+Polygon,600,Chobe,Chobe,National Park,National Park,National,0,1968,52,BWA,423.6373278,0.615769231,10561.86347,4.023740549,10,Shrubland,517483.9138,2579,518,295640.6,5.470764075
+Polygon,20299,Cross River,Cross River,National Park,National Park,National,0,1991,29,NGA,399.7575523,0.492692308,3318.660704,3.520962853,10,Forest,17540618.2,1782,558,#N/A,0
+Polygon,308685,Namaqua National Park,Namaqua National Park,National Park,National Park,National,0,2001,19,ZAF,381.8865248,0.634923077,1372.721234,3.137582352,10,Grassland,892.1242298,1008,220,14765,4.169233451
+Polygon,2280,Omo,Omo,National Park,National Park,National,0,1959,61,ETH,365.2036854,0.374125,4322.701408,3.635755238,10,Mosaic,3450389.636,2401,550,#N/A,0
+Polygon,313401,Conkouati-Douli,Conkouati-Douli,Parc National,National Park,National,1,1999,21,COG,314.2435177,0.522769231,6366.01592,3.80386772,10,Forest,749194.563,1711,477,#N/A,0
+Polygon,1088,North Luangwa,North Luangwa,National Park,National Park,National,0,1971,49,ZMB,286.4035218,0.468653846,4538.115314,3.656875527,10,Mosaic,986228.6742,2488,535,#N/A,0
+Polygon,2531,Mana Pools,Mana Pools,National Park,National Park,National,0,1975,45,ZWE,271.8863019,0.453846154,2134.271398,3.329249644,10,Forest,2295550.094,2439,496,#N/A,0
+Polygon,597,Boucle de la Pendjari,Boucle de la Pendjari,National Park,National Park,National,0,1961,59,BEN,252.1588952,0.414653846,2844.630503,3.454025863,10,Shrubland,2421738.582,1802,403,6272.555556,3.797444517
+Polygon,779,Nyika National Park,Nyika National Park,National Park,National Park,National,0,1965,55,MWI,233.4906933,0.394538462,3137.092623,3.496527341,10,Forest,2488838.777,2466,574,10205.25,4.008823648
+Polygon,32816,Tankwa-Karoo National Park,Tankwa-Karoo National Park,National Park,National Park,National,0,1986,34,ZAF,226.1805128,0.634923077,1425.97344,3.154111436,10,Sparse vegetation or bare,490.5903734,1068,232,5108,3.708250889
+Polygon,1097,Blue Lagoon,Blue Lagoon,National Park,National Park,National,0,1973,47,ZMB,217.911032,0.468653846,469.0920718,2.671258093,10,Forest,3428917.426,2243,495,#N/A,0
+Polygon,2278,Nechisar,Nechisar,National Park,National Park,National,0,1966,54,ETH,209.0132341,0.374125,1036.558154,3.015593672,10,Mosaic,9747326.631,2129,536,#N/A,0
+Polygon,2277,Mago,Mago,National Park,National Park,National,0,1971,49,ETH,173.9887218,0.374125,1363.948952,3.134798116,10,Shrubland,2007302.123,2288,521,#N/A,0
+Polygon,1372,Shambe,Shambe,National Park,National Park,National,0,1985,35,SSD,155.1794872,0.420833333,1759.998749,3.245512359,10,Grassland,1015849.725,1571,368,#N/A,0
+Polygon,867,Oiseaux de Djoudj,Oiseaux de Djoudj,National Park,National Park,National,0,1971,49,SEN,154.3511905,0.412961538,137.5646036,2.138506701,10,Grassland,1074336.781,1335,350,5000,3.698970004
+Polygon,4114,Toubkal National Park,Toubkal National Park,Parc National,National Park,National,0,1942,78,MAR,137.0615079,0.5525,373.0984064,2.571823394,10,Sparse vegetation or bare,3424280.187,399,197,#N/A,0
+Polygon,958,Kidepo Valley,Kidepo Valley,National Park,National Park,National,0,1962,58,UGA,131.4809297,0.405307692,1440.455732,3.158499916,10,Mosaic,2020522.219,2361,568,1742,3.241048151
+Polygon,652,Awash,Awash,National Park,National Park,National,0,1969,51,ETH,91.16933638,0.374125,743.0633121,2.871025819,10,Mosaic,6155378.145,1974,512,#N/A,0
+Polygon,17742,Talassemtane National Park,Talassemtane National Park,Parc National,National Park,National,0,2004,16,MAR,56.61811927,0.5525,615.4302907,2.789178868,10,Shrubland,5191267.346,395,230,#N/A,0
+Polygon,29969,Alhoceima National Park,Alhoceima National Park,Parc National,National Park,National,1,2004,16,MAR,41.20737327,0.5525,643.7082862,2.8086891,10,Water bodies,2580785.408,393,222,#N/A,0
+Polygon,4115,Tazekka National Park,Tazekka National Park,Parc National,National Park,National,0,1950,70,MAR,39.859375,0.5525,139.0223277,2.143084556,10,Mosaic,3484497.852,367,204,#N/A,0
+Polygon,7521,Mahale Mts.National Park,Mahale Mts.National Park,National Park,National Park,National,0,1980,40,TZA,523.868681,0.429923077,1471.508963,3.167762912,11,Forest,864589.0944,2188,464,437.2,2.640680153
+Polygon,884,Etosha,Etosha,National Park,National Park,National,0,1975,45,NAM,415.8912851,0.587923077,23063.38832,4.362923111,11,Grassland,529469.7653,2072,415,#N/A,0
+Polygon,1092,Nsumbu,Nsumbu,National Park,National Park,National,0,1985,35,ZMB,312.5231993,0.468653846,1928.766863,3.285279736,11,Forest,1033246.748,2334,522,#N/A,0
+Polygon,19563,Chyulu Hills,Chyulu Hills,National Park,National Park,National,0,1983,37,KEN,207.8269006,0.486961538,738.0915034,2.868110206,11,Forest,3072785.649,2569,586,#N/A,0
+Polygon,2532,Chimanimani,Chimanimani,National Park,National Park,National,0,1950,70,ZWE,192.0192308,0.453846154,212.5754496,2.327513106,11,Forest,2234566.091,2169,498,#N/A,0
+Polygon,555547994,Mont Cameroun,Mont Cameroun,Parc national,National Park,National,0,2009,11,CMR,165.6,0.460653846,585.609228,2.767607912,11,Forest,5714976.484,1524,502,#N/A,0
+Polygon,758,Amboseli,Amboseli,National Park,National Park,National,0,1974,46,KEN,149.3660131,0.486961538,390.0145611,2.591080822,11,Grassland,3321072.823,2615,591,108818,5.03670074
+Polygon,757,Mt. Kenya,Mt. Kenya,National Park,National Park,National,0,1968,52,KEN,129.7082729,0.486961538,593.5671009,2.773469822,11,Mosaic,7060064.047,2430,587,#N/A,0
+Polygon,866,Delta du Saloum,Delta du Saloum,National Park,National Park,National,1,1976,44,SEN,118.3949045,0.412961538,1360.736815,3.133774135,11,Water bodies,4645885.084,1662,461,#N/A,0
+Polygon,555542498,Khenifra National Park,Khenifra National Park,Parc National,National Park,National,0,2008,12,MAR,80.61957447,0.5525,844.9476047,2.926829779,11,Mosaic,4262800.125,394,212,#N/A,0
+Polygon,2279,Abijatta-Shalla,Abijatta-Shalla,National Park,National Park,National,0,1963,57,ETH,80.44160757,0.374125,1804.986841,3.25647404,11,Mosaic,15106140.99,2047,535,#N/A,0
+Polygon,925,Arusha National Park,Arusha National Park,National Park,National Park,National,0,1960,60,TZA,66.64661654,0.429923077,112.1050688,2.04962525,11,Forest,3252570.093,2639,629,22101.6,4.344423715
+Polygon,4118,Parc National de Djurdjura,Parc National de Djurdjura,Parc National,National Park,National,0,1983,37,DZA,39.89583333,0.663346154,164.12769,2.215181857,11,Mosaic,9199194.756,363,207,#N/A,0
+Polygon,917,Ruaha National Park,Ruaha National Park,National Park,National Park,National,0,1964,56,TZA,473.990771,0.429923077,14600.43591,4.164365822,12,Mosaic,2368790.274,2631,563,9181,3.962889987
+Polygon,2337,Badingilo,Badingilo,National Park,National Park,National,0,1986,34,SSD,362.0258194,0.420833333,8996.726932,3.954084539,12,Mosaic,2021745.872,2109,496,#N/A,0
+Polygon,7962,Lower Zambezi,Lower Zambezi,National Park,National Park,National,0,1983,37,ZMB,326.7548,0.468653846,4153.679976,3.618433033,12,Forest,3311812.491,2456,514,#N/A,0
+Polygon,1086,South Luangwa,South Luangwa,National Park,National Park,National,0,1971,49,ZMB,308.627742,0.468653846,8985.477577,3.953541165,12,Forest,1620815.422,2527,541,#N/A,0
+Polygon,1371,Boma,Boma,National Park,National Park,National,0,1986,34,SSD,288.0252354,0.420833333,19886.95994,4.298568399,12,Shrubland,2003880.008,2233,486,#N/A,0
+Polygon,752,Tsavo East,Tsavo East,National Park,National Park,National,0,1948,72,KEN,264.8469803,0.486961538,13511.8775,4.130715699,12,Grassland,5446667.299,2617,602,157333,5.196819824
+Polygon,1402,Mkomazi National Park,Mkomazi National Park,National Park,National Park,National,0,1951,69,TZA,226.1150774,0.429923077,3441.74794,3.536779061,12,Mosaic,5077238.822,2740,658,#N/A,0
+Polygon,862,Akagera,Akagera,National Park,National Park,National,0,1934,86,RWA,138.4290484,0.358538462,1027.01272,3.011575823,12,Mosaic,12944313.78,2335,529,25571.44444,4.40775526
+Polygon,924,Lake Manyara National Park,Lake Manyara National Park,National Park,National Park,National,0,1960,60,TZA,133.5793651,0.429923077,108.5529847,2.035641769,12,Water bodies,2373838.157,2610,592,71693.2,4.855477965
+Polygon,301881,Agulhas National Park,Agulhas National Park,National Park,National Park,National,0,1999,21,ZAF,119.0035461,0.634923077,201.7855551,2.304890074,12,Forest,8428.045899,1295,304,39396,4.595452129
+Polygon,881,Garden Route National Park,Garden Route National Park,National Park,National Park,National,1,1964,56,ZAF,118.5974796,0.634923077,1267.075674,3.102802553,12,Forest,346553.1221,1414,337,490992,5.691074416
+Polygon,957,Queen Elizabeth,Queen Elizabeth,National Park,National Park,National,0,1952,68,UGA,116.8776596,0.405307692,2112.680452,3.324833814,12,Mosaic,12617438.52,2753,736,19119,4.281465173
+Polygon,873,Kruger National Park,Kruger National Park,National Park,National Park,National,0,1926,94,ZAF,110.5858099,0.634923077,19260.38888,4.284665052,12,Mosaic,596514.7414,2694,565,1892128,6.276950513
+Polygon,1441,Lake Mburo,Lake Mburo,National Park,National Park,National,0,1982,38,UGA,76.55082742,0.405307692,368.8447583,2.566843616,12,Mosaic,6375628.016,2235,552,9119,3.959947216
+Polygon,9741,Parc National d'El-Kala,Parc National d'El-Kala,Parc National,National Park,National,0,1983,37,DZA,66.08389831,0.663346154,821.5852136,2.914652614,12,Forest,3465345.648,407,238,#N/A,0
+Polygon,15089,Ifrane National Park,Ifrane National Park,Parc National,National Park,National,0,2004,16,MAR,57.71113689,0.5525,1241.144437,3.093822325,12,Mosaic,5104898.68,400,216,#N/A,0
+Polygon,762,Lake Nakuru,Lake Nakuru,National Park,National Park,National,0,1968,52,KEN,34.25446429,0.486961538,191.6403685,2.282486997,12,Mosaic,7905297.805,2429,587,163469.5,5.213436734
+Polygon,19297,Udzungwa Mountains National Park,Udzungwa Mountains National Park,National Park,National Park,National,0,1992,28,TZA,333.114541,0.429923077,2095.266344,3.321239237,13,Forest,1741893.993,2489,582,1286.333333,3.109353524
+Polygon,916,Serengeti National Park,Serengeti National Park,National Park,National Park,National,0,1951,69,TZA,276.2281104,0.429923077,13123.05031,4.118034794,13,Grassland,9120449.601,2784,626,147879.2,5.169907092
+Polygon,920,Tarangire National Park,Tarangire National Park,National Park,National Park,National,0,1970,50,TZA,208.9219719,0.429923077,2627.196578,3.41949257,13,Mosaic,3257032.831,2593,585,55134,4.741419502
+Polygon,1084,Kundelungu,Kundelungu,Parc National,National Park,National,0,1939,81,COD,198.9832671,0.364653846,8092.267062,3.908070207,13,Forest,5791914.04,2176,509,#N/A,0
+Polygon,919,Mikumi National Park,Mikumi National Park,National Park,National Park,National,0,1964,56,TZA,192.1895236,0.429923077,3239.875207,3.510528282,13,Forest,2079827.648,2545,574,13229.4,4.121540148
+Polygon,956,Murchison Falls,Murchison Falls,National Park,National Park,National,0,1952,68,UGA,167.4518112,0.405307692,3903.829393,3.59149083,13,Mosaic,7564013.052,2587,666,29855,4.475017076
+Polygon,755,Meru,Meru,National Park,National Park,National,0,1966,54,KEN,164.3457031,0.486961538,880.8120399,2.944883242,13,Mosaic,3387325.514,2232,520,15545.5,4.191604695
+Polygon,17368,West Coast National Park,West Coast National Park,National Park,National Park,National,1,1985,35,ZAF,57.20601852,0.634923077,354.7818401,2.549961382,13,Forest,53378.93963,1127,258,#N/A,0
+Polygon,1079,Upemba,Upemba,Parc National,National Park,National,0,1939,81,COD,356.5155248,0.364653846,13526.83301,4.131196129,14,Forest,4289308.04,2256,529,#N/A,0
+Polygon,9035,Quirimbas,Quirimbas,National Park,National Park,National,0,2002,18,MOZ,200.383442,0.318769231,8384.395528,3.923471758,14,Shrubland,1590128.215,1715,364,#N/A,0
+Polygon,348,National Park Quiçãma,National Park Quiçãma,National Park,National Park,National,0,1957,63,AGO,173.5503197,0.462764706,8662.086358,3.937622509,14,Mosaic,8656460.501,1686,396,#N/A,0
+Polygon,19564,Tsavo West,Tsavo West,National Park,National Park,National,0,1948,72,KEN,190.8766659,0.486961538,7077.698047,3.849892031,15,Grassland,4469830.668,2798,665,86984,4.939439375
+Polygon,300408,Table Mountain National Park,Table Mountain National Park,National Park,National Park,National,0,1998,22,ZAF,12.03389831,0.634923077,221.6713987,2.345709662,15,Forest,1331999.229,1199,313,#N/A,0
+Polygon,922,Kilimanjaro National Park,Kilimanjaro National Park,National Park,National Park,National,0,1973,47,TZA,147.7459509,0.429923077,1860.296251,3.269582111,16,Forest,3691301.715,2799,654,24168.4,4.3832479
+Polygon,166889,Virunga,Virunga,Parc National,National Park,National,0,1925,95,COD,160.3052977,0.364653846,7878.932383,3.896467373,17,Forest,23420553.91,3065,849,#N/A,0
