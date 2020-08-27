@@ -1,0 +1,238 @@
+Order,Family,Scientific,Common,log.Range,bccstatus,bcc,Colour.richness,BCI,Distinct.patterning,Unusual.appendages,Unusual.adornments,status,Extinction.risk,migratory type,migration,tp,tl,ED_score,habitat_1,colonial,log.mass,Sources
+PASSERIFORMES,Fringillidae,Acanthis flammea,Common Redpoll,3.103461622,Amber,2,6,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,3.324037,Forest,Colonial,1.113943352,6
+ACCIPITRIFORMES,Accipitridae,Accipiter gentilis,Goshawk,2.944975908,Green,3,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,9.50842,Forest,Not colonial,2.955046015,6
+ACCIPITRIFORMES,Accipitridae,Accipiter nisus,Sparrowhawk,3.42111013,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.716942,Artificial,Not colonial,2.375663614,7
+PASSERIFORMES,Acrocephalidae,Acrocephalus palustris,Marsh Warbler,1.69019608,Red,1,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.353201,Shrubland,Not colonial,1.06069784,4
+PASSERIFORMES,Acrocephalidae,Acrocephalus schoenobaenus,Sedge Warbler,3.391640703,Green,3,7,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.225147,Aquatic,Not colonial,1.07371835,8
+PASSERIFORMES,Acrocephalidae,Acrocephalus scirpaceus,Reed Warbler,3.07773118,Green,3,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.099275,Aquatic,Not colonial,1.089905111,8
+CHARADRIIFORMES,Scolopacidae,Actitis hypoleucos,Common Sandpiper,3.27989498,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,21.494293,Aquatic,Not colonial,1.681241237,7
+PASSERIFORMES,Aegithalidae,Aegithalos caudatus,Long-tailed Tit,3.395675785,Green,3,4,0,1,1,0,LC,5,Not a Migrant,1,Diurnal,Carnivore,7.871647,Forest,Not colonial,0.934498451,6
+PASSERIFORMES,Alaudidae,Alauda arvensis,Skylark,3.44870632,Red,1,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,5.451373,Aquatic,Not colonial,1.573741642,8
+CHARADRIIFORMES,Alcidae,Alca torda,Razorbill,2.874481818,Amber,2,2,0,1,0,0,NT,4,Full Migrant,4,Diurnal,Carnivore,10.863603,Aquatic,Colonial,2.860936621,7
+CORACIIFORMES,Alcedinidae,Alcedo atthis,Kingfisher,3.271609301,Amber,2,5,0.0625,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,7.660836,Aquatic,Not colonial,1.436787679,8
+CHARADRIIFORMES,Alcidae,Alle alle,Little Auk,2.631443769,Green,3,3,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,10.807669,Aquatic,Colonial,2.258477645,4
+ANSERIFORMES,Anatidae,Anas acuta,Pintail,2.996949248,Amber,2,5,0.03125,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,2.166222,Aquatic,Not colonial,2.976120618,6
+ANSERIFORMES,Anatidae,Anas crecca,Teal,3.407220893,Amber,2,8,0.03125,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,3.064888,Aquatic,Not colonial,2.536347978,7
+ANSERIFORMES,Anatidae,Anas platyrhynchos,Mallard,3.44294987,Amber,2,6,0.0625,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,1.180631,Artificial,Not colonial,3.02820512,6
+ANSERIFORMES,Anatidae,Anser albifrons,White-fronted Goose,2.854913022,Red,1,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,2.883538,Aquatic,Colonial,3.403249246,6
+ANSERIFORMES,Anatidae,Anser anser,Greylag Goose,3.337658891,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,2.315209,Aquatic,Colonial,3.519631139,6
+ANSERIFORMES,Anatidae,Anser brachyrhynchus,Pink-footed Goose,3.063333359,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,2.515331,Artificial,Colonial,3.422425676,6
+ANSERIFORMES,Anatidae,Anser fabalis,Taiga Bean Goose,2.421603927,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,2.769005,Artificial,Colonial,3.442597342,6
+PASSERIFORMES,Motacillidae,Anthus petrosus,Rock Pipit,3.025715384,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,3.817173,Bare,Not colonial,1.350248018,6
+PASSERIFORMES,Motacillidae,Anthus pratensis,Meadow Pipit,3.450710878,Amber,2,7,0,1,0,0,NT,4,Full Migrant,4,Diurnal,Carnivore,4.860394,Aquatic,Not colonial,1.264817823,7
+PASSERIFORMES,Motacillidae,Anthus spinoletta,Water Pipit,2.534026106,Amber,2,7,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,3.805327,Open vegetation,Not colonial,1.378397901,4
+PASSERIFORMES,Motacillidae,Anthus trivialis,Tree Pipit,3.314499228,Red,1,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.001927,Forest,Not colonial,1.369215857,8
+CAPRIMULGIFORMES,Apodidae,Apus apus,Swift,3.375846436,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.724703,Bare,Colonial,1.575187845,6
+ACCIPITRIFORMES,Accipitridae,Aquila chrysaetos,Golden Eagle,2.748962861,Green,3,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,8.236421,Open vegetation,Not colonial,3.629766267,8
+PELECANIFORMES,Ardeidae,Ardea cinerea,Grey Heron,3.436957331,Green,3,3,0,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.377957,Artificial,Colonial,3.159266331,7
+PROCELLARIIFORMES,Procellariidae,Ardenna grisea,Sooty Shearwater,1.748188027,Green,3,4,0,1,0,0,NT,4,Full Migrant,4,Nocturnal,Carnivore,8.23263,Aquatic,Colonial,2.895974732,7
+CHARADRIIFORMES,Scolopacidae,Arenaria interpres,Turnstone,2.930949031,Amber,2,3,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,17.773574,Open vegetation,Not colonial,2.133538908,6
+STRIGIFORMES,Strigidae,Asio flammeus,Short-eared Owl,3.261738547,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,9.279068,Open vegetation,Not colonial,2.511883361,6
+STRIGIFORMES,Strigidae,Asio otus,Long-eared Owl,3.11991541,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Nocturnal,Carnivore,8.979268,Forest,Not colonial,2.475671188,8
+ANSERIFORMES,Anatidae,Aythya ferina,Pochard,3.229681842,Red,1,4,0,1,0,0,VU,3,Full Migrant,4,Diurnal,Herbivore,1.860352,Aquatic,Not colonial,2.915399835,6
+ANSERIFORMES,Anatidae,Aythya fuligula,Tufted Duck,3.345765693,Green,3,4,0.0625,0,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,2.15624,Aquatic,Not colonial,2.846027675,6
+ANSERIFORMES,Anatidae,Aythya marila,Scaup,2.886490725,Red,1,4,0.03125,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.840623,Aquatic,Colonial,3.002813779,6
+PASSERIFORMES,Bombycillidae,Bombycilla garrulus,Waxwing,3.221153322,Green,3,6,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,16.003378,Forest,Not colonial,1.734726379,6
+PELECANIFORMES,Ardeidae,Botaurus stellaris,Bittern,2.753583059,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,16.020887,Aquatic,Not colonial,3.122051963,7
+ANSERIFORMES,Anatidae,Branta bernicla,Brent Goose,2.802773725,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,6.258547,Open vegetation,Colonial,3.106955426,6
+ANSERIFORMES,Anatidae,Branta leucopsis,Barnacle Goose,2.980911938,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,3.286736,Open vegetation,Colonial,3.227115083,6
+ANSERIFORMES,Anatidae,Bucephala clangula,Goldeneye,3.291146762,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.030139,Forest,Not colonial,2.972434277,7
+CHARADRIIFORMES,Burhinidae,Burhinus oedicnemus,Stone-curlew,2.071882007,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Nocturnal,Omnivore,16.005374,Open vegetation,Not colonial,2.661812686,7
+ACCIPITRIFORMES,Accipitridae,Buteo buteo,Buzzard,3.430719888,Green,3,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.868782,Forest,Not colonial,2.889861721,7
+PASSERIFORMES,Calcariidae,Calcarius lapponicus,Lapland Bunting,2.472756449,Amber,2,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,15.540805,Open vegetation,Colonial,1.4448252,6
+CHARADRIIFORMES,Scolopacidae,Calidris alba,Sanderling,2.652246341,Amber,2,6,0.03125,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,10.011243,Open vegetation,Not colonial,1.755874856,6
+CHARADRIIFORMES,Scolopacidae,Calidris alpina,Dunlin,3.196176185,Amber,2,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,11.391194,Aquatic,Not colonial,1.717878449,7
+CHARADRIIFORMES,Scolopacidae,Calidris canutus,Knot,2.748188027,Amber,2,5,0.03125,1,0,0,NT,4,Full Migrant,4,Diurnal,Carnivore,13.404824,Aquatic,Not colonial,2.153752684,6
+CHARADRIIFORMES,Scolopacidae,Calidris ferruginea,Curlew Sandpiper,1.698970004,Amber,2,7,0.015625,1,0,0,NT,4,Full Migrant,4,Diurnal,Carnivore,16.001194,Open vegetation,Not colonial,1.764176132,6
+CHARADRIIFORMES,Scolopacidae,Calidris maritima,Purple Sandpiper,2.750508395,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,8.14082,Aquatic,Not colonial,1.81391442,6
+CHARADRIIFORMES,Scolopacidae,Calidris minuta,Little Stint,2.100370545,Green,3,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,9.990511,Open vegetation,Not colonial,1.324282455,6
+CHARADRIIFORMES,Scolopacidae,Calidris pugnax,Ruff,2.574031268,Red,1,4,0,1,1,1,LC,5,Full Migrant,4,Diurnal,Omnivore,16.981261,Artificial,Colonial,2.133538908,7
+CAPRIMULGIFORMES,Caprimulgidae,Caprimulgus europaeus,Nightjar,2.862727528,Amber,2,6,0,1,0,0,LC,5,Full Migrant,4,Nocturnal,Carnivore,5.244451,Forest,Not colonial,1.826074803,8
+PASSERIFORMES,Fringillidae,Carduelis carduelis,Goldfinch,3.411956238,Green,3,7,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,6.195681,Shrubland,Colonial,1.204119983,4
+CHARADRIIFORMES,Stercorariidae,Catharacta skua,Great Skua,2.568201724,Amber,2,1,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,3.68653,Aquatic,Colonial,3.127104798,7
+CHARADRIIFORMES,Alcidae,Cepphus grylle,Black Guillemot,2.749736316,Amber,2,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,8.622035,Aquatic,Colonial,2.5774918,7
+PASSERIFORMES,Certhiidae,Certhia familiaris,Treecreeper,3.395151592,Green,3,5,0,1,0,0,LC,5,Not a Migrant,1,Diurnal,Carnivore,7.108739,Forest,Not colonial,0.954242509,6
+PASSERIFORMES,Scotocercidae,Cettia cetti,Cetti's Warbler,2.697229343,Green,3,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,10.488174,Aquatic,Not colonial,1.125481266,8
+CHARADRIIFORMES,Charadriidae,Charadrius dubius,Little Ringed Plover,2.876217841,Green,3,4,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,14.848928,Forest,Not colonial,1.587710974,6
+CHARADRIIFORMES,Charadriidae,Charadrius hiaticula,Ringed Plover,3.181271772,Red,1,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,15.286024,Aquatic,Not colonial,1.806519134,7
+CHARADRIIFORMES,Laridae,Chlidonias niger,Black Tern,1.113943352,Green,3,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,3.943958,Aquatic,Colonial,1.814913181,6
+PASSERIFORMES,Fringillidae,Chloris chloris,Greenfinch,3.421768401,Green,3,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,3.864093,Artificial,Colonial,1.414973348,5
+PASSERIFORMES,Cinclidae,Cinclus cinclus,Dipper,3.223236273,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,10.682049,Aquatic,Not colonial,1.790285164,7
+ACCIPITRIFORMES,Accipitridae,Circus aeruginosus,Marsh Harrier,2.63748973,Amber,2,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.759914,Aquatic,Not colonial,2.852174904,8
+ACCIPITRIFORMES,Accipitridae,Circus cyaneus,Hen Harrier,3.254306332,Red,1,3,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.217953,Forest,Not colonial,2.603144373,6
+ACCIPITRIFORMES,Accipitridae,Circus pygargus,Montagu's Harrier,1.897627091,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.148524,Aquatic,Not colonial,2.498999364,4
+ANSERIFORMES,Anatidae,Clangula hyemalis,Long-tailed Duck,2.804820679,Red,1,4,0,1,0,0,VU,3,Full Migrant,4,Diurnal,Carnivore,8.053587,Open vegetation,Colonial,2.941014244,6
+PASSERIFORMES,Fringillidae,Coccothraustes coccothraustes,Hawfinch,2.920645001,Red,1,8,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,10.352157,Forest,Colonial,1.753199914,6
+COLUMBIFORMES,Columbidae,Columba livia,Rock Dove,3.424718337,Green,3,4,0.0625,1,0,0,LC,5,Not a Migrant,1,Diurnal,Herbivore,4.510291,Artificial,Colonial,2.54961624,5
+COLUMBIFORMES,Columbidae,Columba oenas,Stock Dove,3.338456494,Amber,2,5,0.0625,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,6.326991,Other,Not colonial,2.463892989,3
+COLUMBIFORMES,Columbidae,Columba palumbus,Woodpigeon,3.42553422,Green,3,6,0.0625,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,5.421109,Shrubland,Not colonial,2.69019608,3
+PASSERIFORMES,Corvidae,Corvus corax,Raven,3.353146546,Green,3,2,0,0,0,0,LC,5,Not a Migrant,1,Diurnal,Carnivore,2.745269,Bare,Not colonial,2.894869657,8
+PASSERIFORMES,Corvidae,Corvus corone,Carrion Crow,3.410945859,Green,3,2,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,3.611751,Aquatic,Not colonial,2.755874856,4
+PASSERIFORMES,Corvidae,Corvus frugilegus,Rook,3.392872745,Green,3,2,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,4.085263,Artificial,Colonial,2.656577291,5
+PASSERIFORMES,Corvidae,Corvus monedula,Jackdaw,3.407730728,Green,3,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,4.193947,Aquatic,Colonial,2.390935107,6
+GALLIFORMES,Phasianidae,Coturnix coturnix,Quail,3.122870923,Amber,2,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,5.129845,Open vegetation,Not colonial,1.984527313,4
+GRUIFORMES,Rallidae,Crex crex,Corncrake,2.880813592,Red,1,7,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,10.730209,Open vegetation,Not colonial,2.191730393,6
+CUCULIFORMES,Cuculidae,Cuculus canorus,Cuckoo,3.428134794,Red,1,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.225239,Forest,Not colonial,2.047274867,6
+ANSERIFORMES,Anatidae,Cygnus columbianus,Bewick's Swan,2.779596491,Amber,2,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,5.00812,Aquatic,Not colonial,3.806179974,6
+ANSERIFORMES,Anatidae,Cygnus cygnus,Whooper Swan,3.172310969,Amber,2,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,4.992173,Aquatic,Not colonial,3.970811611,6
+ANSERIFORMES,Anatidae,Cygnus olor,Mute Swan,3.334453751,Amber,2,2,0,1,0,1,LC,5,Full Migrant,4,Diurnal,Herbivore,7.445391,Aquatic,Not colonial,4.030802049,6
+PASSERIFORMES,Hirundinidae,Delichon urbicum,House Martin,3.41313205,Amber,2,4,0.0625,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,9.524444,Bare,Colonial,1.161368002,6
+PICIFORMES,Picidae,Dendrocopos major,Great Spotted Woodpecker,3.385427515,Green,3,6,0.03125,1,0,0,LC,5,Not a Migrant,1,Diurnal,Omnivore,3.139634,Forest,Not colonial,1.911690159,7
+PICIFORMES,Picidae,Dryobates minor,Lesser Spotted Woodpecker,3.096562438,Red,1,3,0.015625,1,0,0,LC,5,Not a Migrant,1,Diurnal,Carnivore,4.95211,Forest,Not colonial,1.29666519,7
+PELECANIFORMES,Ardeidae,Egretta garzetta,Little Egret,3.063708559,Green,3,1,0,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,7.901933,Aquatic,Colonial,2.494154594,7
+PASSERIFORMES,Emberizidae,Emberiza calandra,Corn Bunting,3.179551791,Red,1,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,8.844894,Open vegetation,Not colonial,1.68797462,6
+PASSERIFORMES,Emberizidae,Emberiza cirlus,Cirl Bunting,2.278753601,Red,1,5,0,1,0,0,LC,5,Not a Migrant,1,Diurnal,Herbivore,6.227629,Shrubland,Not colonial,1.408239972,5
+PASSERIFORMES,Emberizidae,Emberiza citrinella,Yellowhammer,3.396199347,Red,1,5,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,3.445275,Forest,Not colonial,1.47275646,6
+PASSERIFORMES,Emberizidae,Emberiza schoeniclus,Reed Bunting,3.426023016,Amber,2,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,5.344573,Aquatic,Not colonial,1.26599637,7
+PASSERIFORMES,Alaudidae,Eremophila alpestris,Shore Lark,1.949390007,Amber,2,7,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,7.246331,Open vegetation,Not colonial,1.495363322,6
+PASSERIFORMES,Muscicapidae,Erithacus rubecula,Robin,3.442479769,Green,3,4,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,13.899963,Forest,Not colonial,1.247973285,7
+CHARADRIIFORMES,Charadriidae,Eudromias morinellus,Dotterel,2.096910013,Red,1,5,0.015625,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,27.379057,Open vegetation,Not colonial,2.035429738,7
+FALCONIFORMES,Falconidae,Falco columbarius,Merlin,3.360214613,Red,1,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,11.301538,Open vegetation,Not colonial,2.27989498,6
+FALCONIFORMES,Falconidae,Falco peregrinus,Peregrine,3.411114419,Green,3,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,3.932677,Bare,Not colonial,2.871030563,8
+FALCONIFORMES,Falconidae,Falco subbuteo,Hobby,3.055760465,Green,3,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.072536,Open vegetation,Not colonial,2.321184027,8
+FALCONIFORMES,Falconidae,Falco tinnunculus,Kestrel,3.437274797,Amber,2,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.393255,Artificial,Not colonial,2.264817823,7
+PASSERIFORMES,Muscicapidae,Ficedula hypoleuca,Pied Flycatcher,2.974050903,Red,1,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.406315,Forest,Not colonial,1.1430148,8
+CHARADRIIFORMES,Alcidae,Fratercula arctica,Puffin,2.556302501,Red,1,2,0,1,0,0,VU,3,Full Migrant,4,Diurnal,Carnivore,6.243924,Aquatic,Colonial,2.814247596,7
+PASSERIFORMES,Fringillidae,Fringilla coelebs,Chaffinch,3.437116093,Green,3,7,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,11.663598,Forest,Not colonial,1.379607636,6
+PASSERIFORMES,Fringillidae,Fringilla montifringilla,Brambling,3.347915187,Green,3,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,12.999199,Shrubland,Not colonial,1.354108446,6
+GRUIFORMES,Rallidae,Fulica atra,Coot,3.317645543,Green,3,2,0,1,0,1,LC,5,Full Migrant,4,Diurnal,Herbivore,6.341703,Artificial,Not colonial,2.725094521,6
+PROCELLARIIFORMES,Procellariidae,Fulmarus glacialis,Fulmar,2.8876173,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,12.550201,Aquatic,Colonial,2.787460475,7
+CHARADRIIFORMES,Scolopacidae,Gallinago gallinago,Snipe,3.441538039,Amber,2,4,0,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,8.557956,Aquatic,Not colonial,2.021189299,7
+GRUIFORMES,Rallidae,Gallinula chloropus,Moorhen,3.378761175,Green,3,3,0,1,0,1,LC,5,Full Migrant,4,Diurnal,Omnivore,7.190584,Aquatic,Not colonial,2.535926741,6
+PASSERIFORMES,Corvidae,Garrulus glandarius,Jay,3.338456494,Green,3,6,0.015625,1,0,0,LC,5,Not a Migrant,1,Diurnal,Omnivore,9.821919,Forest,Not colonial,2.203440867,4
+GAVIIFORMES,Gaviidae,Gavia arctica,Black-throated Diver,2.889861721,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,29.647734,Aquatic,Not colonial,3.488480208,7
+GAVIIFORMES,Gaviidae,Gavia immer,Great Northern Diver,2.933487288,Amber,2,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,20.942715,Aquatic,Not colonial,3.697229343,6
+GAVIIFORMES,Gaviidae,Gavia stellata,Red-throated Diver,3.026941628,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,49.484481,Aquatic,Colonial,3.172018809,7
+GRUIFORMES,Gruidae,Grus grus,Crane,1.924279286,Amber,2,4,0,1,1,0,LC,5,Full Migrant,4,Diurnal,Herbivore,5.925404,Aquatic,Not colonial,3.740362689,3
+CHARADRIIFORMES,Haematopodidae,Haematopus ostralegus,Oystercatcher,3.348110068,Amber,2,3,0,1,0,0,NT,4,Full Migrant,4,Diurnal,Carnivore,7.090832,Aquatic,Not colonial,2.720985744,7
+ACCIPITRIFORMES,Accipitridae,Haliaeetus albicilla,White-tailed Eagle,2.475671188,Red,1,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,7.196711,Aquatic,Not colonial,3.680607429,7
+PASSERIFORMES,Hirundinidae,Hirundo rustica,Swallow,3.435047641,Green,3,5,0.078125,1,0,1,LC,5,Full Migrant,4,Diurnal,Carnivore,3.334829,Aquatic,Not colonial,1.308738198,7
+PROCELLARIIFORMES,Hydrobatidae,Hydrobates leucorhous,Leach's Petrel,2.079181246,Amber,2,3,0,0,0,0,VU,3,Full Migrant,4,Nocturnal,Omnivore,20.874794,Aquatic,Colonial,1.568899575,5
+PROCELLARIIFORMES,Hydrobatidae,Hydrobates pelagicus,Storm Petrel,2.161368002,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Nocturnal,Omnivore,24.209712,Aquatic,Colonial,1.401400541,7
+CHARADRIIFORMES,Laridae,Hydrocoloeus minutus,Little Gull,2.605305046,Green,3,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.243071,Aquatic,Colonial,2.071882007,6
+GALLIFORMES,Phasianidae,Lagopus lagopus,Red Grouse,3.088136089,Amber,2,6,0,1,0,1,LC,5,Not a Migrant,1,Diurnal,Herbivore,5.422209,Open vegetation,Not colonial,2.756382506,7
+GALLIFORMES,Phasianidae,Lagopus muta,Ptarmigan,2.365487985,Green,3,4,0,1,1,1,LC,5,Altitudinal Migrant,2,Diurnal,Herbivore,5.422209,Open vegetation,Not colonial,2.728759475,8
+PASSERIFORMES,Laniidae,Lanius collurio,Red-backed Shrike,2.086359831,Red,1,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.225941,Open vegetation,Not colonial,1.454082271,5
+CHARADRIIFORMES,Laridae,Larus argentatus,Herring Gull,3.420945406,Red,1,3,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.204762,Aquatic,Colonial,3.039017322,7
+CHARADRIIFORMES,Laridae,Larus cachinnans,Caspian Gull,2.227886705,Amber,2,3,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.105114,Aquatic,Colonial,3.048150363,1
+CHARADRIIFORMES,Laridae,Larus canus,Common Gull,3.429267666,Amber,2,3,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,2.021694,Aquatic,Colonial,2.617838748,6
+CHARADRIIFORMES,Laridae,Larus fuscus,Lesser Black-backed Gull,3.40688067,Amber,2,3,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.265196,Aquatic,Colonial,2.884370488,7
+CHARADRIIFORMES,Laridae,Larus glaucoides,Iceland Gull,2.773786445,Amber,2,2,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.054547,Aquatic,Colonial,2.851258349,4
+CHARADRIIFORMES,Laridae,Larus hyperboreus,Glaucous Gull,2.802089258,Amber,2,2,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.204762,Aquatic,Colonial,3.18871761,5
+CHARADRIIFORMES,Laridae,Larus marinus,Great Black-backed Gull,3.375297738,Amber,2,3,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,1.208094,Aquatic,Colonial,3.219715476,6
+CHARADRIIFORMES,Laridae,Larus melanocephalus,Mediterranean Gull,2.856124444,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,2.038542,Aquatic,Colonial,2.408239965,7
+CHARADRIIFORMES,Laridae,Larus michahellis,Yellow-legged Gull,2.618048097,Amber,2,3,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.161318,Aquatic,Colonial,3.048150363,5
+CHARADRIIFORMES,Laridae,Larus ridibundus,Black-headed Gull,3.427810573,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.820333,Aquatic,Colonial,2.45331834,7
+CHARADRIIFORMES,Scolopacidae,Limosa lapponica,Bar-tailed Godwit,2.762678564,Amber,2,5,0.015625,1,1,0,NT,4,Full Migrant,4,Diurnal,Carnivore,18.515614,Aquatic,Not colonial,2.46612587,6
+CHARADRIIFORMES,Scolopacidae,Limosa limosa,Black-tailed Godwit,2.698100546,Red,1,5,0.015625,1,1,0,NT,4,Full Migrant,4,Diurnal,Carnivore,17.54948,Aquatic,Colonial,2.463892989,7
+PASSERIFORMES,Fringillidae,Linaria cannabina,Linnet,3.407050815,Red,1,5,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,4.861014,Shrubland,Colonial,1.291146762,6
+PASSERIFORMES,Fringillidae,Linaria flavirostris,Twite,3.117933835,Red,1,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,4.825187,Bare,Colonial,1.187520721,6
+PASSERIFORMES,Locustellidae,Locustella luscinioides,Savi's Warbler,1.662757832,Red,1,5,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,7.323445,Aquatic,Not colonial,1.1430148,5
+PASSERIFORMES,Locustellidae,Locustella naevia,Grasshopper Warbler,3.36604921,Red,1,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.538941,Aquatic,Not colonial,1.123851641,7
+PASSERIFORMES,Paridae,Lophophanes cristatus,Crested Tit,1.963787827,Green,3,7,0,1,0,0,LC,5,Nomadic,3,Diurnal,Carnivore,9.636585,Forest,Not colonial,1.043362278,8
+PASSERIFORMES,Fringillidae,Loxia curvirostra,Crossbill,2.92890769,Green,3,7,0,1,0,1,LC,5,Not a Migrant,1,Diurnal,Herbivore,2.156287,Forest,Colonial,1.570916392,8
+PASSERIFORMES,Fringillidae,Loxia pytyopsittacus,Parrot Crossbill,1.255272505,Amber,2,7,0.015625,1,0,1,LC,5,Not a Migrant,1,Diurnal,Herbivore,2.116491,Forest,Colonial,1.72427587,1
+PASSERIFORMES,Fringillidae,Loxia scotica,Scottish Crossbill,2.008600172,Amber,2,7,0.015625,1,0,1,LC,5,Not a Migrant,1,Diurnal,Herbivore,2.159634,Forest,Colonial,1.635483747,7
+PASSERIFORMES,Alaudidae,Lullula arborea,Woodlark,2.608526034,Green,3,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,10.318054,Artificial,Not colonial,1.429752274,8
+PASSERIFORMES,Muscicapidae,Luscinia megarhynchos,Nightingale,2.859738566,Red,1,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,8.226501,Shrubland,Not colonial,1.29299404,8
+CHARADRIIFORMES,Scolopacidae,Lymnocryptes minimus,Jack Snipe,3.126780577,Green,3,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,30.226382,Aquatic,Not colonial,1.700703717,5
+GALLIFORMES,Phasianidae,Lyrurus tetrix,Black Grouse,2.880813592,Red,1,5,0.046875,1,0,0,LC,5,Not a Migrant,1,Diurnal,Herbivore,4.160267,Forest,Not colonial,3.034427905,7
+ANSERIFORMES,Anatidae,Mareca penelope,Wigeon,3.3232521,Amber,2,7,0.03125,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,2.577578,Aquatic,Not colonial,2.88733593,6
+ANSERIFORMES,Anatidae,Mareca strepera,Gadwall,3.110926242,Amber,2,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,2.499413,Aquatic,Not colonial,2.962369336,7
+ANSERIFORMES,Anatidae,Melanitta fusca,Velvet Scoter,2.522444234,Red,1,2,0,1,0,1,VU,3,Full Migrant,4,Diurnal,Carnivore,5.019956,Aquatic,Colonial,3.244771761,6
+ANSERIFORMES,Anatidae,Melanitta nigra,Common Scoter,2.848804701,Red,1,1,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.661431,Aquatic,Not colonial,3.02201574,6
+ANSERIFORMES,Anatidae,Mergellus albellus,Smew,2.691081492,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.983133,Forest,Colonial,2.785329835,6
+ANSERIFORMES,Anatidae,Mergus merganser,Goosander,3.322219295,Green,3,4,0.03125,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,2.914466,Aquatic,Colonial,3.167465029,7
+ANSERIFORMES,Anatidae,Mergus serrator,Red-breasted Merganser,3.155032229,Green,3,7,0.03125,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,3.033222,Aquatic,Colonial,3.009238371,6
+ACCIPITRIFORMES,Accipitridae,Milvus milvus,Red Kite,3.056142262,Green,3,7,0,1,0,0,NT,4,Full Migrant,4,Diurnal,Carnivore,8.634745,Shrubland,Not colonial,3.033423755,6
+SULIFORMES,Sulidae,Morus bassanus,Gannet,2.796574333,Amber,2,3,0,1,0,1,LC,5,Full Migrant,4,Diurnal,Carnivore,13.334484,Aquatic,Colonial,3.477048866,7
+PASSERIFORMES,Motacillidae,Motacilla alba,Pied Wagtail,3.44357588,Green,3,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.295747,Aquatic,Not colonial,1.395027624,5
+PASSERIFORMES,Motacillidae,Motacilla cinerea,Grey Wagtail,3.411619706,Red,1,4,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.513906,Aquatic,Not colonial,1.212187584,7
+PASSERIFORMES,Motacillidae,Motacilla flava,Yellow Wagtail,3.128399269,Red,1,8,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.702653,Aquatic,Not colonial,1.245580917,7
+PASSERIFORMES,Muscicapidae,Muscicapa striata,Spotted Flycatcher,3.406369835,Red,1,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.40819,Artificial,Not colonial,1.201397124,6
+CHARADRIIFORMES,Scolopacidae,Numenius arquata,Curlew,3.409933123,Red,1,3,0,1,1,0,NT,4,Full Migrant,4,Diurnal,Omnivore,7.820327,Aquatic,Colonial,2.906065545,8
+CHARADRIIFORMES,Scolopacidae,Numenius phaeopus,Whimbrel,2.365487985,Red,1,3,0,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,12.68767,Forest,Not colonial,2.563184335,7
+PASSERIFORMES,Muscicapidae,Oenanthe oenanthe,Wheatear,3.337459261,Green,3,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.439574,Bare,Not colonial,1.485721432,7
+PASSERIFORMES,Oriolidae,Oriolus oriolus,Golden Oriole,1.431363764,Red,1,4,0.03125,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,6.282609,Forest,Not colonial,1.897627091,6
+ACCIPITRIFORMES,Pandionidae,Pandion haliaetus,Osprey,2.580924976,Amber,2,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,56.063247,Aquatic,Not colonial,3.171872656,8
+PASSERIFORMES,Panuridae,Panurus biarmicus,Bearded Tit,2.346352974,Green,3,5,0.015625,1,1,1,LC,5,Not a Migrant,1,Diurnal,Carnivore,26.580087,Aquatic,Colonial,1.141449773,8
+PASSERIFORMES,Paridae,Parus major,Great Tit,3.415307292,Green,3,8,0.015625,1,0,0,LC,5,Not a Migrant,1,Diurnal,Omnivore,9.751935,Forest,Not colonial,1.214181309,4
+PASSERIFORMES,Passeridae,Passer montanus,Tree Sparrow,3.27989498,Red,1,7,0,1,0,0,LC,5,Not a Migrant,1,Diurnal,Herbivore,5.778103,Shrubland,Colonial,1.342422681,6
+GALLIFORMES,Phasianidae,Perdix perdix,Grey Partridge,3.31993844,Red,1,4,0,1,0,0,LC,5,Not a Migrant,1,Diurnal,Herbivore,6.42296,Open vegetation,Not colonial,2.607990859,5
+PASSERIFORMES,Paridae,Periparus ater,Coal Tit,3.411956238,Green,3,7,0,1,0,0,LC,5,Not a Migrant,1,Diurnal,Omnivore,9.766515,Forest,Not colonial,0.963787827,7
+ACCIPITRIFORMES,Accipitridae,Pernis apivorus,Honey-buzzard,1.963787827,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,13.626927,Forest,Not colonial,2.879669206,7
+SULIFORMES,Phalacrocoracidae,Phalacrocorax aristotelis,Shag,3.013258665,Red,1,2,0.03125,1,0,1,LC,5,Full Migrant,4,Diurnal,Carnivore,8.798803,Aquatic,Colonial,3.248708736,7
+SULIFORMES,Phalacrocoracidae,Phalacrocorax carbo,Cormorant,3.388456453,Green,3,5,0.09375,1,0,1,LC,5,Full Migrant,4,Diurnal,Carnivore,8.037685,Aquatic,Colonial,3.410130229,6
+CHARADRIIFORMES,Scolopacidae,Phalaropus lobatus,Red-necked Phalarope,0.698970004,Red,1,5,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,15.681869,Aquatic,Colonial,1.565257343,6
+PASSERIFORMES,Muscicapidae,Phoenicurus ochruros,Black Redstart,2.890979597,Red,1,5,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.020535,Bare,Not colonial,1.217483944,5
+PASSERIFORMES,Muscicapidae,Phoenicurus phoenicurus,Redstart,3.282622113,Amber,2,7,0.03125,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.468176,Shrubland,Not colonial,1.164352856,8
+PASSERIFORMES,Phylloscopidae,Phylloscopus collybita,Chiffchaff,3.40277707,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.622113,Shrubland,Not colonial,0.919078092,7
+PASSERIFORMES,Phylloscopidae,Phylloscopus sibilatrix,Wood Warbler,3.224791956,Red,1,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,7.676215,Forest,Not colonial,0.963787827,8
+PASSERIFORMES,Phylloscopidae,Phylloscopus trochilus,Willow Warbler,3.432006687,Amber,2,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.573543,Forest,Not colonial,0.939519253,7
+PASSERIFORMES,Corvidae,Pica pica,Magpie,3.345569756,Green,3,5,0,0,1,0,LC,5,Not a Migrant,1,Diurnal,Carnivore,6.552361,Forest,Not colonial,2.338954252,1
+PICIFORMES,Picidae,Picus viridis,Green Woodpecker,3.290479813,Green,3,6,0.015625,1,0,0,LC,5,Not a Migrant,1,Diurnal,Carnivore,3.822116,Shrubland,Not colonial,2.245512668,6
+PELECANIFORMES,Threskiornithidae,Platalea leucorodia,Spoonbill,2.037426498,Amber,2,2,0,1,1,1,LC,5,Full Migrant,4,Diurnal,Carnivore,14.722264,Aquatic,Colonial,3.271376872,7
+PASSERIFORMES,Calcariidae,Plectrophenax nivalis,Snow Bunting,3.067814511,Amber,2,3,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,9.989341,Open vegetation,Colonial,1.625312459,7
+CHARADRIIFORMES,Charadriidae,Pluvialis apricaria,Golden Plover,3.397766256,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,14.587036,Open vegetation,Not colonial,2.330413773,7
+CHARADRIIFORMES,Charadriidae,Pluvialis squatarola,Grey Plover,2.791690649,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,18.365995,Open vegetation,Not colonial,2.397940009,7
+PODICIPEDIFORMES,Podicipedidae,Podiceps auritus,Slavonian Grebe,2.762678564,Red,1,6,0,1,0,0,VU,3,Full Migrant,4,Diurnal,Carnivore,17.72255,Aquatic,Not colonial,2.656098202,7
+PODICIPEDIFORMES,Podicipedidae,Podiceps cristatus,Great Crested Grebe,3.176669933,Green,3,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,15.484202,Aquatic,Not colonial,2.868448501,6
+PODICIPEDIFORMES,Podicipedidae,Podiceps grisegena,Red-necked Grebe,2.541579244,Red,1,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,18.074723,Aquatic,Not colonial,3.009875634,5
+PODICIPEDIFORMES,Podicipedidae,Podiceps nigricollis,Black-necked Grebe,2.494154594,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,16.956583,Aquatic,Colonial,2.617262517,7
+PASSERIFORMES,Paridae,Poecile montanus,Willow Tit,3.184123354,Red,1,6,0,1,0,0,LC,5,Altitudinal Migrant,2,Diurnal,Carnivore,9.135175,Forest,Not colonial,1.041392685,7
+PASSERIFORMES,Paridae,Poecile palustris,Marsh Tit,3.182699903,Red,1,6,0,1,0,0,LC,5,Not a Migrant,1,Diurnal,Omnivore,9.77073,Forest,Not colonial,1.047274867,7
+GRUIFORMES,Rallidae,Porzana porzana,Spotted Crake,2.041392685,Amber,2,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,9.890714,Aquatic,Not colonial,1.940018155,5
+PASSERIFORMES,Prunellidae,Prunella modularis,Dunnock,3.434249452,Amber,2,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,4.903274,Forest,Not colonial,1.306425028,4
+PROCELLARIIFORMES,Procellariidae,Puffinus mauretanicus,Balearic Shearwater,1.633468456,Red,1,4,0,0,0,0,CR,1,Full Migrant,4,Nocturnal,Carnivore,6.976273,Aquatic,Colonial,2.714748761,3
+PROCELLARIIFORMES,Procellariidae,Puffinus puffinus,Manx Shearwater,2.178976947,Amber,2,4,0,0,0,0,LC,5,Full Migrant,4,Nocturnal,Carnivore,7.270812,Aquatic,Colonial,2.656577291,7
+PASSERIFORMES,Corvidae,Pyrrhocorax pyrrhocorax,Chough,2.184691431,Green,3,3,0.015625,1,0,0,LC,5,Not a Migrant,1,Diurnal,Omnivore,13.654552,Bare,Colonial,2.443654068,7
+PASSERIFORMES,Fringillidae,Pyrrhula pyrrhula,Bullfinch,3.405858399,Amber,2,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,4.669585,Forest,Not colonial,1.431363764,5
+GRUIFORMES,Rallidae,Rallus aquaticus,Water Rail,3.218272854,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,8.088098,Artificial,Not colonial,2.047274867,6
+CHARADRIIFORMES,Recurvirostridae,Recurvirostra avosetta,Avocet,2.354108439,Amber,2,2,0,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,10.487141,Aquatic,Colonial,2.482873584,7
+PASSERIFORMES,Regulidae,Regulus ignicapilla,Firecrest,2.866287339,Green,3,8,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,22.842921,Forest,Not colonial,1.052618107,5
+PASSERIFORMES,Regulidae,Regulus regulus,Goldcrest,3.42373725,Green,3,6,0.015625,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,19.890283,Forest,Not colonial,0.744292983,6
+PASSERIFORMES,Hirundinidae,Riparia riparia,Sand Martin,3.367542274,Green,3,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,10.144898,Artificial,Colonial,1.104942108,7
+CHARADRIIFORMES,Laridae,Rissa tridactyla,Kittiwake,2.98721923,Red,1,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,5.155214,Aquatic,Colonial,2.619441184,7
+PASSERIFORMES,Muscicapidae,Saxicola rubetra,Whinchat,3.290479813,Red,1,7,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,8.589108,Shrubland,Not colonial,1.220108088,7
+PASSERIFORMES,Muscicapidae,Saxicola rubicola,Stonechat,3.411619706,Green,3,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.056836,Shrubland,Not colonial,1.100370558,8
+CHARADRIIFORMES,Scolopacidae,Scolopax rusticola,Woodcock,3.426023016,Red,1,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,10.290889,Forest,Not colonial,2.489020478,8
+PASSERIFORMES,Sittidae,Sitta europaea,Nuthatch,3.237543738,Green,3,6,0,1,0,0,LC,5,Not a Migrant,1,Diurnal,Carnivore,9.634657,Forest,Not colonial,1.311753861,6
+ANSERIFORMES,Anatidae,Somateria mollissima,Eider,2.942008053,Amber,2,3,0,1,0,0,NT,4,Full Migrant,4,Diurnal,Carnivore,3.119958,Aquatic,Colonial,3.31523541,7
+ANSERIFORMES,Anatidae,Spatula clypeata,Shoveler,3.13289977,Amber,2,6,0.046875,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,1.611244,Aquatic,Not colonial,2.787460475,6
+ANSERIFORMES,Anatidae,Spatula querquedula,Garganey,2.532754379,Amber,2,8,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,3.655489,Aquatic,Not colonial,2.5132176,7
+PASSERIFORMES,Fringillidae,Spinus spinus,Siskin,3.410608543,Green,3,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Herbivore,3.639203,Forest,Colonial,1.122215878,7
+CHARADRIIFORMES,Stercorariidae,Stercorarius longicaudus,Long-tailed Skua,1.079181246,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,7.341662,Aquatic,Not colonial,2.460145817,7
+CHARADRIIFORMES,Stercorariidae,Stercorarius parasiticus,Arctic Skua,2.523746467,Red,1,2,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,7.341662,Open vegetation,Colonial,2.648847708,7
+CHARADRIIFORMES,Stercorariidae,Stercorarius pomarinus,Pomarine Skua,2.285557309,Green,3,2,0,0,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,3.685686,Aquatic,Not colonial,2.84135947,5
+CHARADRIIFORMES,Laridae,Sterna dougallii,Roseate Tern,1.73239376,Red,1,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,3.360604,Aquatic,Colonial,2.049218023,7
+CHARADRIIFORMES,Laridae,Sterna hirundo,Common Tern,3.058805487,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.089851,Aquatic,Colonial,2.1430148,8
+CHARADRIIFORMES,Laridae,Sterna paradisaea,Arctic Tern,2.744292983,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,2.862066,Aquatic,Colonial,2.041392685,7
+CHARADRIIFORMES,Laridae,Sternula albifrons,Little Tern,2.354108439,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,4.761928,Aquatic,Colonial,1.755874856,7
+COLUMBIFORMES,Columbidae,Streptopelia decaocto,Collared Dove,3.409425869,Green,3,4,0,1,0,0,LC,5,Not a Migrant,1,Diurnal,Herbivore,5.147817,Artificial,Not colonial,2.173186268,1
+COLUMBIFORMES,Columbidae,Streptopelia turtur,Turtle Dove,3.115277591,Red,1,6,0,1,0,0,VU,3,Full Migrant,4,Diurnal,Omnivore,4.619551,Shrubland,Not colonial,2.120573931,6
+STRIGIFORMES,Strigidae,Strix aluco,Tawny Owl,3.393399695,Amber,2,4,0,1,0,0,LC,5,Not a Migrant,1,Nocturnal,Carnivore,9.075942,Forest,Not colonial,2.67669361,6
+PASSERIFORMES,Sturnidae,Sturnus vulgaris,Starling,3.441852176,Red,1,7,0.09375,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,4.544025,Aquatic,Colonial,1.892280159,6
+PASSERIFORMES,Sylviidae,Sylvia atricapilla,Blackcap,3.399673721,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,10.783883,Forest,Not colonial,1.222716471,6
+PASSERIFORMES,Sylviidae,Sylvia borin,Garden Warbler,3.351989455,Green,3,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,10.049115,Forest,Not colonial,1.260071388,7
+PASSERIFORMES,Sylviidae,Sylvia communis,Whitethroat,3.395326393,Green,3,6,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.014049,Open vegetation,Not colonial,1.178976947,7
+PASSERIFORMES,Sylviidae,Sylvia curruca,Lesser Whitethroat,3.208172527,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,6.537264,Forest,Not colonial,1.058805487,6
+PASSERIFORMES,Sylviidae,Sylvia undata,Dartford Warbler,2.378397901,Amber,2,5,0,1,0,0,NT,4,Not a Migrant,1,Diurnal,Carnivore,3.984875,Shrubland,Not colonial,1.033423755,8
+PODICIPEDIFORMES,Podicipedidae,Tachybaptus ruficollis,Little Grebe,3.352953912,Green,3,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,22.223951,Aquatic,Not colonial,2.240549248,6
+ANSERIFORMES,Anatidae,Tadorna tadorna,Shelduck,3.211921084,Amber,2,6,0.046875,1,0,1,LC,5,Full Migrant,4,Diurnal,Carnivore,3.721973,Aquatic,Colonial,3.061452479,6
+GALLIFORMES,Phasianidae,Tetrao urogallus,Capercaillie,2.303196057,Red,1,6,0.046875,1,0,1,LC,5,Not a Migrant,1,Diurnal,Herbivore,4.347757,Forest,Not colonial,3.469822016,6
+CHARADRIIFORMES,Laridae,Thalasseus sandvicensis,Sandwich Tern,2.480006943,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,2.730473,Aquatic,Colonial,2.283301229,7
+CHARADRIIFORMES,Scolopacidae,Tringa erythropus,Spotted Redshank,2.387389826,Amber,2,2,0,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,13.444398,Artificial,Not colonial,2.198657087,7
+CHARADRIIFORMES,Scolopacidae,Tringa glareola,Wood Sandpiper,0.77815125,Amber,2,3,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,11.21589,Artificial,Not colonial,1.795532443,6
+CHARADRIIFORMES,Scolopacidae,Tringa nebularia,Greenshank,2.883093359,Amber,2,4,0,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,11.970126,Open vegetation,Not colonial,2.271841607,7
+CHARADRIIFORMES,Scolopacidae,Tringa ochropus,Green Sandpiper,3.001300933,Amber,2,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,18.903695,Forest,Not colonial,1.853698212,7
+CHARADRIIFORMES,Scolopacidae,Tringa totanus,Redshank,3.349665984,Amber,2,3,0,1,1,0,LC,5,Full Migrant,4,Diurnal,Carnivore,11.131516,Aquatic,Colonial,2.11058971,7
+PASSERIFORMES,Troglodytidae,Troglodytes troglodytes,Wren,3.448860846,Green,3,7,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,9.67374,Forest,Not colonial,0.949389988,6
+PASSERIFORMES,Turdidae,Turdus iliacus,Redwing,3.42975228,Red,1,5,0.015625,1,0,0,NT,4,Full Migrant,4,Diurnal,Omnivore,7.427583,Forest,Not colonial,1.786751428,6
+PASSERIFORMES,Turdidae,Turdus merula,Blackbird,3.445448514,Green,3,2,0.0625,0,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,8.135683,Forest,Not colonial,2.051244169,6
+PASSERIFORMES,Turdidae,Turdus philomelos,Song Thrush,3.441852176,Red,1,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,12.200248,Forest,Not colonial,1.8309093,5
+PASSERIFORMES,Turdidae,Turdus pilaris,Fieldfare,3.429429264,Red,1,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,5.758646,Forest,Not colonial,2.025305865,6
+PASSERIFORMES,Turdidae,Turdus torquatus,Ring Ouzel,2.989004616,Red,1,4,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,4.487099,Forest,Not colonial,2.037426498,6
+PASSERIFORMES,Turdidae,Turdus viscivorus,Mistle Thrush,3.418301291,Red,1,5,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Omnivore,12.509301,Forest,Not colonial,2.070037867,3
+STRIGIFORMES,Tytonidae,Tyto alba,Barn Owl,3.370883017,Green,3,3,0,1,0,0,LC,5,Not a Migrant,1,Nocturnal,Carnivore,14.241874,Aquatic,Not colonial,2.550228353,6
+CHARADRIIFORMES,Alcidae,Uria aalge,Common Guillemot,2.922206277,Amber,2,2,0,1,0,0,LC,5,Full Migrant,4,Diurnal,Carnivore,8.312862,Aquatic,Colonial,2.996073654,7
+CHARADRIIFORMES,Charadriidae,Vanellus vanellus,Lapwing,3.436003536,Red,1,6,0.09375,1,0,1,NT,4,Full Migrant,4,Diurnal,Carnivore,10.128117,Artificial,Not colonial,2.339451441,7

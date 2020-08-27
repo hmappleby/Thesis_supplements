@@ -1,0 +1,39 @@
+Scientific.name,Order,Family,Common.Name,Colour.richness,Distinct.patterning,Unusual.appendages,Unusual.adornments,IUCNstatus,Extinction.risk,tp,habitat_1,tl,social,ED_score,log.mass,UK.log.Range,Sources
+Apodemus flavicollis,Rodentia,Muridae,Yellow-necked mouse,6,0,1,0,LC,5,Nocturnal,Forest,Herbivore,Solitary,4.472751447,-1.500312917,2.442479769,4
+Apodemus sylvaticus,Rodentia,Muridae,Wood mouse,6,0,1,0,LC,5,Nocturnal,Mosaic,Omnivore,Solitary,4.721970199,-1.659555885,3.154423973,6
+Arvicola amphibius,Rodentia,Muridae,Water vole,3,0,1,0,LC,5,Cathemeral,Forest,Omnivore,Solitary,8.352352774,-0.920818754,3.056523724,8
+Capreolus capreolus,Cetartiodactyla,Cervidae,Roe deer,5,1,0,1,LC,5,Diurnal,Forest,Herbivore,Solitary,8.369121066,1.352221314,3.094121596,7
+Castor fiber,Rodentia,Castoridae,Eurasian beaver,3,0,1,0,LC,5,Nocturnal,Forest,Herbivore,Group living,40.66364174,1.278753601,3.176380692,3
+Cervus elaphus,Cetartiodactyla,Cervidae,Red deer,5,0,1,1,LC,5,Diurnal,Forest,Herbivore,Group living,5.974270565,2.381777538,2.903632516,8
+Cervus nippon,Cetartiodactyla,Cervidae,Sika deer,6,1,0,1,LC,5,Crepuscular,Forest,Herbivore,Solitary,5.911978,1.724275788,2.190331698,7
+Dama dama,Cetartiodactyla,Cervidae,Fallow deer,6,1,1,1,LC,5,Diurnal,Forest,Herbivore,Group living,12.35106176,1.757582842,2.760422484,6
+Erinaceus europaeus,Eulipotyphla,Erinaceidae,Hedgehog,4,1,1,0,LC,5,Nocturnal,Forest,Carnivore,Solitary,12.01206647,-0.109048315,3.30427505,4
+Felis silvestris,Carnivora,Felidae,Wild cat,4,1,0,0,LC,5,Nocturnal,Bare,Carnivore,Solitary,5.662427177,0.660208799,2.608526034,6
+Glis glis,Rodentia,Myoxidae,Edible dormouse,4,0,1,0,LC,5,Nocturnal,Forest,Omnivore,Solitary,37.25884225,-0.892484774,1,2
+Hydropotes inermis,Cetartiodactyla,Cervidae,Chinese water deer,4,0,0,1,VU,3,Crepuscular,Artificial,Herbivore,Solitary,11.19378238,1.105852036,1.568201724,6
+Lepus europaeus,Lagomorpha,Leporidae,Brown hare,6,0,0,0,LC,5,Nocturnal,Mosaic,Herbivore,Solitary,6.483909604,0.581657301,3.214313897,6
+Lepus timidus,Lagomorpha,Leporidae,Mountain hare,3,0,0,0,LC,5,Crepuscular,Forest,Herbivore,Solitary,5.010605778,0.492120346,2.614897216,7
+Lutra lutra,Carnivora,Mustelidae,Otter,4,0,1,0,NT,4,Nocturnal,Forest,Carnivore,Solitary,6.363368553,0.947859475,3.249198357,8
+Macropus rufogriseus,Diprotodontia,Macropodidae,Red-necked wallaby,5,1,1,0,LC,5,Nocturnal,Forest,Herbivore,Group living,10.78198492,1.226599905,1.322219295,1
+Martes martes,Carnivora,Mustelidae,Pine marten,5,1,0,0,LC,5,Nocturnal,Forest,Omnivore,Solitary,10.04410533,0.113940012,2.657055853,8
+Meles meles,Carnivora,Mustelidae,Badger,4,1,0,0,LC,5,Nocturnal,Forest,Omnivore,Group living,10.28007926,1.074963739,3.267406419,7
+Micromys minutus,Rodentia,Muridae,Harvest mouse,7,0,1,0,LC,5,Nocturnal,Forest,Omnivore,Solitary,12.35028929,-2.155522824,2.882524538,6
+Microtus agrestis,Rodentia,Muridae,Field vole,4,0,0,0,LC,5,Cathemeral,Forest,Herbivore,Solitary,9.260843886,-1.445268623,3.142076461,5
+Microtus arvalis,Rodentia,Cricetidae,Common Vole,6,0,1,0,LC,5,Cathemeral,Mosaic,Herbivore,Group living,4.51085785,-1.57024772,1.255272505,4
+Muntiacus reevesi,Cetartiodactyla,Cervidae,Reeves' muntjac,5,1,1,1,LC,5,Diurnal,Artificial,Herbivore,Solitary,6.054899105,1.130331838,2.624282096,7
+Mus musculus,Rodentia,Muridae,House mouse,3,0,1,0,LC,5,Nocturnal,Open vegetation,Omnivore,Group living,4.243502274,-1.714442691,2.963315511,2
+Muscardinus avellanarius,Rodentia,Myoxidae,Hazel dormouse,5,0,1,0,LC,5,Nocturnal,Forest,Omnivore,Solitary,38.99747467,-1.534765905,2.599883072,8
+Mustela erminea,Carnivora,Mustelidae,Stoat,4,1,0,0,LC,5,Nocturnal,Forest,Carnivore,Solitary,9.896201793,-0.545917729,3.201397124,7
+Mustela nivalis,Carnivora,Mustelidae,Weasel,2,0,0,0,LC,5,Cathemeral,Forest,Carnivore,Solitary,7.16709132,-1.105407052,3.184975191,5
+Mustela putorius,Carnivora,Mustelidae,Polecat,4,1,0,0,LC,5,Nocturnal,Forest,Carnivore,Solitary,6.415705805,-0.010750467,2.611723308,6
+Myodes glareolus,Rodentia,Muridae,Bank vole,4,0,1,0,LC,5,Cathemeral,Forest,Omnivore,Solitary,4.079454006,-1.683400698,3.061452479,6
+Neomys fodiens,Eulipotyphla,Soricidae,Water shrew,4,0,1,0,LC,5,Cathemeral,Forest,Carnivore,Solitary,14.03943197,-1.816445466,2.887054378,7
+Neovison vison,Carnivora,Mustelidae,American Mink,2,1,0,0,LC,5,Nocturnal,Forest,Carnivore,Solitary,2.251684588,0.05211655,3.02201574,3
+Oryctolagus cuniculus,Lagomorpha,Leporidae,Rabbit,5,1,0,0,NT,4,Cathemeral,Open vegetation,Herbivore,Solitary,22.69052673,0.201552787,3.360593414,6
+Rangifer tarandus,Cetartiodactyla,Cervidae,Reindeer,3,0,1,1,VU,3,Diurnal,Forest,Herbivore,Group living,11.75857179,2.03777897,0.84509804,3
+Sciurus carolinensis,Rodentia,Sciuridae,Grey squirrel,3,0,1,0,LC,5,Diurnal,Forest,Herbivore,Solitary,3.003288607,-0.263284867,3.169086357,5
+Sciurus vulgaris,Rodentia,Sciuridae,Red squirrel,4,0,1,0,LC,5,Diurnal,Forest,Herbivore,Solitary,4.250659156,-0.477555766,3.190051418,8
+Sorex araneus,Eulipotyphla,Soricidae,Common shrew,4,0,1,0,LC,5,Cathemeral,Forest,Omnivore,Solitary,5.300192521,-2.037157319,3.176380692,4
+Sorex minutus,Eulipotyphla,Soricidae,Pygmy shrew,4,0,1,0,LC,5,Cathemeral,Forest,Carnivore,Solitary,11.04168275,-2.364516253,3.028164419,6
+Sus scrofa,Cetartiodactyla,Suidae,Wild boar,4,1,1,0,LC,5,Nocturnal,Mosaic,Omnivore,Group living,9.452658163,1.926710412,1.939519253,2
+Vulpes vulpes,Carnivora,Canidae,Red fox,5,1,0,0,LC,5,Nocturnal,Forest,Omnivore,Group living,3.560572771,0.683079474,3.249442962,7
